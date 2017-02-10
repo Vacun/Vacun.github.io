@@ -8,15 +8,7 @@
 import scrapy
 
 
-class ZillowItem(scrapy.Item):
+class VItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    post_name = scrapy.Field()
-    price = scrapy.Field()
-    bedrooms = scrapy.Field()
-    address = scrapy.Field()
-    lat = scrapy.Field()
-    lon = scrapy.Field()
-    featurs = scrapy.Field()
-    
     pass
