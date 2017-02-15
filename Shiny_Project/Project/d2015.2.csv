@@ -1,0 +1,86 @@
+Alaska,Anchorage ,ANC,62,89,11,121, -   , -   , -   , D 
+Arizona,Phoenix ,PHO,762,559,25,"2,176", D , D , D ,48
+Arizona,Tucson,TUC,302,233,18,608, D , D , -   , D 
+Arkansas,Fort Smith ,FSA,64,81, D ,221, -   , D , -   , D 
+California,Chula Vista,CVC,473,484,31,"1,051", D , D , D ,10
+California,Fresno ,FRE,420,360,45,"1,096", -   , D , D ,32
+California,Imperial,IMP,100,133, D ,181, -   , D , -   , D 
+California,Los Angeles ,LOS,"1,435","1,487",109,"3,925", D , -   , D ,103
+California,Los Angeles County ,LAC,"1,371","1,303",96,"4,009", D ,12, D ,47
+California,Sacramento ,SAC,511,628,45,"1,372", -   , D , D , D 
+California,San Bernardino,SBD,"1,134",907,61,"3,700", D , D , D ,52
+California,San Diego ,SND,428,336,22,"1,019", D , D , -   ,22
+California,San Fernando Valley,SFV,915,"1,111",101,"2,383", -   ,15, D ,98
+California,San Francisco,SFR,"1,347","1,241",52,"3,301", D ,17,11,100
+California,San Jose ,SNJ,876,844,38,"1,798", D , D , D , D 
+California,Santa Ana,SAA,961,401,31,"2,900", D , D , -   ,10
+Colorado,Denver ,DEN,719,588,59,"2,697", -   ,10, D , D 
+Connecticut,Hartford ,HAR,512,420,55,"1,901", -   , D , D , D 
+Delaware,Dover,DVD, -   , -   , -   , -   , -   , -   , -   , -   
+District of Columbia,Washington ,WAS,869,"1,092",61,"2,141", D ,16, D ,212
+Florida,Hialeah,HIA,497,407,34,"1,539", D , D , D ,17
+Florida,Jacksonville,JAC,314,359,29,833, -   , D , -   , D 
+Florida,Kendall,KND,438,535,41,933, D , D , D ,19
+Florida,Miami ,MIA,892,"1,155",106,"2,466", D ,19, D ,58
+Florida,Oakland Park,OKL,"1,154","1,020",105,"2,563", D ,10, D ,69
+Florida,Orlando ,ORL,754,903,125,"2,075", D ,10, D ,65
+Florida,TAM,TAM,706,692,51,"2,180", D , D , D ,61
+Florida,West Palm Beach,WPB,600,504,70,"1,451", D ,14, D , D 
+Georgia,Atlanta ,ATL,"1,481","1,428",174,"3,948", D ,33, D ,67
+Hawaii,Honolulu ,HHW,252,294,37,588, -   , D , D , D 
+Idaho,Boise ,BOI,78,170, D ,217, -   , -   , -   , -   
+Illinois,Chicago ,CHI,"2,015","2,021",138,"7,555", D ,43, D ,410
+Indiana,Indianapolis ,INP,285,352,48,595, -   , D , -   , D 
+Iowa,Des Moines,DSM,125,114, D ,336, D , -   , -   ,10
+Kansas,Wichita,WIC,102,131, D ,255, -   , D , -   , D 
+Kentucky,Louisville ,LOU,164,135,30,452, -   , D , -   , D 
+Louisiana,New Orleans ,NOL,333,327,28,725, -   , D , -   , -   
+Maine,Portland ,POM,52,47, D ,121, -   , -   , -   , -   
+Maryland,Baltimore ,BAL,"1,095",499,71,"3,327", -   , D , D , D 
+Massachusetts,Boston ,BOS,"1,079",683,54,"3,119", -   , D , D ,14
+Massachusetts,Lawrence,LAW,349,319,33,"1,120", -   , D , -   , D 
+Michigan,Detroit ,DET,553,575,61,"1,714", -   ,17, -   ,400
+Minnesota,St. Paul ,SPM,509,343,45,"1,587", D , D , D , D 
+Missouri,Kansas City ,KAN,266,257,20,656, D , D , -   ,10
+Missouri,St. Louis ,STL,140,162,16,481, D , D , D , D 
+Montana,Helena ,HEL,36,101, D ,107, -   , -   , -   , D 
+Nebraska,Omaha ,OMA,119,284,14,300, -   , D , -   , D 
+Nevada,Las Vegas ,LVG,602,586,60,"1,169", -   , D , -   , D 
+Nevada,Reno ,REN,90,116,12,271, -   , D , D , D 
+New Hampshire,Manchester ,MAN,93,84, D ,213, -   , -   , -   , D 
+New Jersey,Mount Laurel,MTL,402,606,43,"1,016", -   , D , -   , D 
+New Jersey,Newark ,NEW,"2,069","1,732",129,"4,658", D , D ,15,17
+New Mexico,Albuquerque ,ABQ,150,205, D ,369, D ,12, -   , D 
+New York,Albany ,ALB,124,153, D ,290, -   , -   , -   ,15
+New York,Buffalo ,BUF,189,276,26,590, -   ,52, D ,61
+New York,Long Island,LNY,"1,130",825,25,"3,967", D , D , D ,186
+New York,New York ,NYC,"3,705","4,124",380,"9,718", D ,40,11,257
+New York,Queens,QNS,"1,232",698,14,"3,466", -   , D , -   ,160
+North Carolina,Charlotte ,CLT,411,357,46,795, D , D , -   , D 
+North Carolina,Raleigh,RAL,424,469,24,915, D , D , D , D 
+Ohio,Cincinnati ,CIN,128,159,16,323, -   , D , -   ,10
+Ohio,Cleveland ,CLE,176,246,29,415, -   , D , -   , -   
+Ohio,Columbus,CLM,208,245,61,464, -   , D , -   ,10
+Oklahoma,Oklahoma City ,OKC,241,234,15,969, D , D , -   , D 
+Oregon,Portland ,POO,375,367,19,"1,116", D , D , D , D 
+Pennsylvania,Philadelphia,PHI,888,941,126,"2,405", D , D , -   , D 
+Pennsylvania,Pittsburgh ,PIT,203,142,14,494, D , D , D , D 
+Rhode Island,Providence ,PRO,169,187,13,426, -   , D , -   , D 
+South Carolina,Charleston ,CHL,248,256,23,564, -   , D , -   ,19
+Tennessee,Memphis ,MEM,395,391,13,"1,079", -   ,23, -   ,34
+Texas,Dallas ,DAL,"1,678","1,292",202,"6,532", -   ,13, D ,176
+Texas,El Paso ,ELP,574,574,25,"1,073", D , D , -   ,32
+Texas,Harlingen ,HLG,609,568,27,"1,519", D , D , D ,57
+Texas,Houston ,HOU,"2,059","1,691",223,"4,253", D ,32, D ,553
+Texas,San Antonio ,SNA,"1,053",729,38,"2,622", -   ,24, D ,10
+Utah,Salt Lake City ,SLC,464,506,29,"1,016", -   , D , D ,11
+Vermont,St. Albans ,STA,42,34, D ,69, -   , -   , -   , -   
+Virginia,Norfolk ,NOR,290,235,24,869, -   , D , -   , D 
+Washington,Seattle ,SEA,732,554,54,"1,824", D , D , D , D 
+Washington,Spokane ,SPO,51,58,14,112, -   , D , D , -   
+Washington,Yakima,YAK,76,136, D ,127, D , -   , -   , D 
+Wisconsin,Milwaukee ,MIL,250,281,22,558, -   , D , -   , D 
+Service Center,California,WSC,"2,065","2,975",930,"5,047","41,365","66,713","12,025","315,380"
+Service Center,Nebraska,NSC,"53,255","49,414","2,274","97,992","1,424","2,205",293,"3,078"
+Service Center,Texas,SSC,"11,141","12,743",541,"19,936",266,404,90,609
+Service Center,Vermont,ESC,"12,292","10,762","1,116","19,304","11,944","4,303",996,"152,776"

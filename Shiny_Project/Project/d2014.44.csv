@@ -1,0 +1,87 @@
+"USCIS.Field.Office.or.Service.Center.Location","X","code","Petitions.by.Category.of.Relatives.and.Case.Status","X.1","X.2","X.3","X.4","X.5","X.6","X.7"
+"Alaska","Anchorage ","ANC",74,117,NA,114,NA,NA,NA,NA
+"Arizona","Phoenix ","PHO",784,801,40,1803,NA,NA,NA,10
+"Arizona","Tucson","TUC",233,283,14,520,NA,NA,NA,NA
+"Arkansas","Fort Smith ","FSA",71,101,NA,117,NA,NA,NA,NA
+"California","Chula Vista","CVC",464,380,11,861,NA,NA,NA,13
+"California","Fresno ","FRE",428,352,NA,939,NA,NA,NA,43
+"California","Imperial","IMP",103,160,NA,161,NA,NA,NA,NA
+"California","Los Angeles ","LOS",1480,1759,96,3260,NA,NA,NA,80
+"California","Los Angeles County ","LAC",1506,1216,150,4092,NA,11,NA,54
+"California","Sacramento ","SAC",514,496,37,973,NA,NA,NA,NA
+"California","San Bernardino","SBD",1151,902,58,2980,NA,NA,NA,47
+"California","San Diego ","SND",468,295,23,946,NA,NA,NA,12
+"California","San Fernando Valley","SFV",899,737,70,2444,NA,NA,NA,86
+"California","San Francisco","SFR",1434,1462,58,2773,NA,25,NA,74
+"California","San Jose ","SNJ",887,761,37,1738,NA,30,NA,13
+"California","Santa Ana","SAA",933,983,81,2162,NA,15,NA,11
+"Colorado","Denver ","DEN",690,489,93,2277,NA,NA,NA,NA
+"Connecticut","Hartford ","HAR",645,674,85,1607,NA,NA,NA,NA
+"Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"District of Columbia","Washington ","WAS",1071,775,78,2547,NA,12,NA,21
+"Florida","Hialeah","HIA",449,422,34,1003,NA,14,NA,18
+"Florida","Jacksonville","JAC",345,283,26,576,NA,NA,NA,13
+"Florida","Kendall","KND",393,608,52,911,NA,15,NA,23
+"Florida","Miami ","MIA",761,1262,69,2337,NA,34,NA,102
+"Florida","Oakland Park","OKL",963,793,95,2728,NA,24,NA,56
+"Florida","Orlando ","ORL",740,899,94,2130,NA,25,NA,11
+"Florida","TAM","TAM",672,734,70,2260,NA,21,NA,13
+"Florida","West Palm Beach","WPB",499,478,63,1062,NA,15,NA,NA
+"Georgia","Atlanta ","ATL",1509,1554,111,2743,NA,24,NA,14
+"Hawaii","Honolulu ","HHW",265,208,23,652,NA,NA,NA,10
+"Idaho","Boise ","BOI",70,146,24,103,NA,NA,NA,NA
+"Illinois","Chicago ","CHI",2068,2288,118,6414,NA,88,NA,224
+"Indiana","Indianapolis ","INP",281,338,37,599,NA,11,NA,NA
+"Iowa","Des Moines","DSM",125,47,NA,344,NA,NA,NA,23
+"Kansas","Wichita","WIC",121,141,NA,203,NA,NA,NA,11
+"Kentucky","Louisville ","LOU",163,212,29,401,NA,NA,NA,NA
+"Louisiana","New Orleans ","NOL",339,391,48,505,NA,NA,NA,NA
+"Maine","Portland ","POM",56,57,NA,73,NA,NA,NA,NA
+"Maryland","Baltimore ","BAL",1028,1128,96,2369,NA,12,NA,13
+"Massachusetts","Boston ","BOS",1141,1105,78,2297,NA,NA,NA,37
+"Massachusetts","Lawrence","LAW",388,289,33,1034,NA,NA,NA,31
+"Michigan","Detroit ","DET",599,786,81,1227,NA,43,NA,125
+"Minnesota","St. Paul ","SPM",527,347,65,1073,NA,22,NA,NA
+"Missouri","Kansas City ","KAN",282,224,23,580,NA,NA,NA,22
+"Missouri","St. Louis ","STL",156,178,14,338,NA,NA,NA,NA
+"Montana","Helena ","HEL",31,142,12,48,NA,NA,NA,NA
+"Nebraska","Omaha ","OMA",128,175,NA,297,NA,NA,NA,NA
+"Nevada","Las Vegas ","LVG",575,582,75,1016,NA,16,NA,NA
+"Nevada","Reno ","REN",73,118,13,140,NA,NA,NA,NA
+"New Hampshire","Manchester ","MAN",86,87,NA,152,NA,NA,NA,NA
+"New Jersey","Mount Laurel","MTL",403,399,40,698,NA,NA,NA,15
+"New Jersey","Newark ","NEW",2193,2175,173,3518,NA,22,NA,25
+"New Mexico","Albuquerque ","ABQ",179,157,10,272,NA,NA,NA,NA
+"New York","Albany ","ALB",104,91,NA,246,NA,NA,NA,13
+"New York","Buffalo ","BUF",197,270,26,474,NA,11,NA,60
+"New York","Long Island","LNY",1270,988,46,3060,NA,10,NA,74
+"New York","New York ","NYC",3658,4385,758,8161,NA,43,19,315
+"New York","Queens","QNS",1253,1415,42,2814,NA,11,NA,72
+"North Carolina","Charlotte ","CLT",445,498,34,790,NA,NA,NA,NA
+"North Carolina","Raleigh","RAL",377,464,38,738,NA,NA,NA,27
+"Ohio","Cincinnati ","CIN",115,129,NA,321,NA,NA,NA,NA
+"Ohio","Cleveland ","CLE",214,229,19,379,NA,NA,NA,NA
+"Ohio","Columbus","CLM",222,316,35,304,NA,NA,NA,NA
+"Oklahoma","Oklahoma City ","OKC",283,320,25,969,NA,18,NA,18
+"Oregon","Portland ","POO",356,262,NA,1052,NA,NA,NA,NA
+"Pennsylvania","Philadelphia","PHI",991,1025,77,2075,NA,12,NA,20
+"Pennsylvania","Pittsburgh ","PIT",184,149,21,394,NA,NA,NA,NA
+"Rhode Island","Providence ","PRO",165,182,21,298,NA,NA,NA,NA
+"South Carolina","Charleston ","CHL",230,265,36,399,NA,NA,NA,NA
+"Tennessee","Memphis ","MEM",435,461,42,720,NA,NA,NA,NA
+"Texas","Dallas ","DAL",1777,790,217,5624,NA,18,NA,238
+"Texas","El Paso ","ELP",559,676,34,868,NA,12,NA,38
+"Texas","Harlingen ","HLG",600,566,39,984,NA,NA,NA,10
+"Texas","Houston ","HOU",2063,2042,262,2934,NA,153,NA,399
+"Texas","San Antonio ","SNA",1064,1204,54,1722,NA,64,NA,27
+"Utah","Salt Lake City ","SLC",472,564,15,958,NA,10,NA,21
+"Vermont","St. Albans ","STA",36,40,12,133,NA,NA,NA,NA
+"Virginia","Norfolk ","NOR",317,243,26,636,NA,NA,NA,NA
+"Washington","Seattle ","SEA",724,479,54,1587,NA,NA,NA,10
+"Washington","Spokane ","SPO",42,63,NA,75,NA,NA,NA,NA
+"Washington","Yakima","YAK",69,193,12,102,NA,NA,NA,NA
+"Wisconsin","Milwaukee ","MIL",272,308,54,458,NA,NA,NA,12
+"Service Center","California","WSC",1972,21383,2026,10076,44598,53322,6415,361325
+"Service Center","Nebraska","NSC",52469,43849,1813,105587,1642,2438,185,3786
+"Service Center","Texas","SSC",11563,11417,952,23665,303,431,173,769
+"Service Center","Vermont","ESC",12225,16000,2080,24824,11861,6050,2749,152854

@@ -25,6 +25,13 @@ fieldnames=['address','price','floor_size','bathrooms','bedrooms','est_mortgage'
 writer = csv.DictWriter(csv_file,fieldnames=fieldnames)
 #writer.writerow(['bathrooms', 'price', 'bedrooms', 'longitude', 'est_mortgage', 'zprice', 'address', 'latitude', 'floor_size','FEATURES','APPLIANCES INCLUDED','OTHER','CONSTRUCTION','ROOM TYPES','ADDITIONAL FEATURES'])
 writer.writeheader()
+
+def try_xpath(the_xpath, web_driver):
+	try:
+		return web_driver.find_element_by_xpath(the_xpath).text
+	except:
+		return " "
+
 for i in range(last_page):
 	page =page + 1
 	n = 0
@@ -60,6 +67,10 @@ for i in range(last_page):
 			# now the fun part of scraping itself
 			time.sleep(2)
 			# driver.find_element_by_xpath('//section[@class="zsg-content-section"]')
+
+			listing_dict['address'] = try_xpath('//header/h1', driver)
+
+			
 			try:
 				address = driver.find_element_by_xpath('//header/h1').text
 				print address

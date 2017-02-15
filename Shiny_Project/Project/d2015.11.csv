@@ -1,0 +1,87 @@
+USCIS.Field.Office.or.Service.Center.Location,X,code,Petitions.by.Category.of.Relatives.and.Case.Status,X.1,X.2,X.3,X.4,X.5,X.6,X.7
+Alaska,Anchorage ,ANC,77,96,NA,122,NA,NA,NA,NA
+Arizona,Phoenix ,PHO,698,519,31,2007,NA,NA,NA,44
+Arizona,Tucson,TUC,262,191,NA,592,NA,NA,NA,NA
+Arkansas,Fort Smith ,FSA,79,59,NA,216,NA,NA,NA,NA
+California,Chula Vista,CVC,519,335,20,1056,NA,NA,NA,11
+California,Fresno ,FRE,394,346,19,1033,NA,NA,NA,24
+California,Imperial,IMP,73,113,NA,162,NA,NA,NA,NA
+California,Los Angeles ,LOS,1518,1249,104,3757,NA,15,NA,84
+California,Los Angeles County ,LAC,1476,1286,97,4178,NA,12,NA,58
+California,Sacramento ,SAC,555,411,36,1274,NA,13,NA,NA
+California,San Bernardino,SBD,1118,678,88,3513,NA,NA,NA,45
+California,San Diego ,SND,444,407,32,948,NA,NA,NA,28
+California,San Fernando Valley,SFV,842,890,72,2526,NA,NA,NA,84
+California,San Francisco,SFR,1376,1196,64,3041,NA,24,NA,81
+California,San Jose ,SNJ,878,626,132,1860,NA,NA,NA,11
+California,Santa Ana,SAA,939,595,38,2472,NA,NA,NA,11
+Colorado,Denver ,DEN,713,595,73,2603,NA,NA,NA,23
+Connecticut,Hartford ,HAR,606,383,30,1855,NA,NA,NA,NA
+Delaware,Dover,DVD,NA,NA,NA,NA,NA,NA,NA,NA
+District of Columbia,Washington ,WAS,1060,982,94,2260,NA,17,NA,228
+Florida,Hialeah,HIA,492,252,39,1252,NA,NA,NA,19
+Florida,Jacksonville,JAC,300,207,26,851,NA,NA,NA,NA
+Florida,Kendall,KND,426,378,53,1069,NA,11,NA,24
+Florida,Miami ,MIA,856,733,94,2819,NA,10,NA,66
+Florida,Oakland Park,OKL,1039,772,86,2507,NA,12,12,67
+Florida,Orlando ,ORL,764,469,74,2352,NA,NA,NA,60
+Florida,TAM,TAM,717,620,70,2132,NA,21,NA,39
+Florida,West Palm Beach,WPB,516,435,66,1355,NA,20,NA,20
+Georgia,Atlanta ,ATL,1591,1243,137,4081,NA,28,NA,99
+Hawaii,Honolulu ,HHW,249,222,29,673,NA,NA,NA,NA
+Idaho,Boise ,BOI,96,119,NA,142,NA,NA,NA,NA
+Illinois,Chicago ,CHI,2234,1299,90,7582,NA,43,NA,440
+Indiana,Indianapolis ,INP,295,319,49,664,NA,NA,NA,10
+Iowa,Des Moines,DSM,138,42,NA,300,NA,NA,NA,NA
+Kansas,Wichita,WIC,122,106,12,298,NA,NA,NA,NA
+Kentucky,Louisville ,LOU,142,170,32,432,NA,12,NA,NA
+Louisiana,New Orleans ,NOL,318,254,17,744,NA,NA,NA,NA
+Maine,Portland ,POM,64,53,11,93,NA,NA,NA,NA
+Maryland,Baltimore ,BAL,1054,593,53,2815,NA,16,NA,15
+Massachusetts,Boston ,BOS,1195,767,61,2720,NA,16,NA,NA
+Massachusetts,Lawrence,LAW,431,346,30,1093,NA,NA,NA,11
+Michigan,Detroit ,DET,608,432,78,1681,NA,NA,NA,415
+Minnesota,St. Paul ,SPM,544,385,40,1482,NA,NA,NA,11
+Missouri,Kansas City ,KAN,311,251,37,659,NA,NA,NA,NA
+Missouri,St. Louis ,STL,164,109,18,470,NA,NA,NA,NA
+Montana,Helena ,HEL,32,75,NA,61,NA,NA,NA,NA
+Nebraska,Omaha ,OMA,137,274,20,318,NA,NA,NA,NA
+Nevada,Las Vegas ,LVG,567,497,56,1070,NA,NA,NA,NA
+Nevada,Reno ,REN,69,56,NA,205,NA,NA,NA,NA
+New Hampshire,Manchester ,MAN,104,72,NA,175,NA,NA,NA,NA
+New Jersey,Mount Laurel,MTL,447,450,46,984,NA,NA,NA,NA
+New Jersey,Newark ,NEW,2212,1471,141,4268,NA,25,NA,23
+New Mexico,Albuquerque ,ABQ,179,83,NA,349,NA,NA,NA,NA
+New York,Albany ,ALB,117,90,NA,302,NA,NA,NA,14
+New York,Buffalo ,BUF,196,181,41,537,NA,20,NA,80
+New York,Long Island,LNY,1204,627,47,3768,NA,11,NA,144
+New York,New York ,NYC,3864,3137,511,10114,NA,23,10,289
+New York,Queens,QNS,1290,565,30,3504,NA,NA,NA,163
+North Carolina,Charlotte ,CLT,372,341,32,804,NA,NA,NA,NA
+North Carolina,Raleigh,RAL,392,342,30,933,NA,NA,NA,NA
+Ohio,Cincinnati ,CIN,174,135,10,342,NA,NA,NA,NA
+Ohio,Cleveland ,CLE,225,222,20,447,NA,NA,NA,NA
+Ohio,Columbus,CLM,232,192,24,484,NA,NA,NA,NA
+Oklahoma,Oklahoma City ,OKC,285,210,23,964,NA,NA,NA,NA
+Oregon,Portland ,POO,399,315,11,1130,NA,NA,NA,NA
+Pennsylvania,Philadelphia,PHI,975,762,74,2394,NA,13,NA,11
+Pennsylvania,Pittsburgh ,PIT,183,183,NA,410,NA,NA,NA,NA
+Rhode Island,Providence ,PRO,200,131,20,367,NA,NA,NA,NA
+South Carolina,Charleston ,CHL,262,196,32,592,NA,NA,NA,19
+Tennessee,Memphis ,MEM,399,362,25,1055,NA,NA,NA,56
+Texas,Dallas ,DAL,1699,1086,138,6449,NA,13,NA,160
+Texas,El Paso ,ELP,529,410,28,1060,NA,NA,NA,22
+Texas,Harlingen ,HLG,649,357,32,1437,NA,NA,NA,20
+Texas,Houston ,HOU,2016,1210,211,4218,NA,20,NA,449
+Texas,San Antonio ,SNA,1106,508,49,2412,NA,29,NA,34
+Utah,Salt Lake City ,SLC,481,375,32,863,NA,NA,NA,NA
+Vermont,St. Albans ,STA,31,60,21,88,NA,NA,NA,NA
+Virginia,Norfolk ,NOR,322,265,26,800,NA,NA,NA,NA
+Washington,Seattle ,SEA,731,458,45,1819,NA,14,NA,NA
+Washington,Spokane ,SPO,39,49,10,82,NA,NA,NA,NA
+Washington,Yakima,YAK,66,84,16,102,NA,NA,NA,NA
+Wisconsin,Milwaukee ,MIL,267,229,33,600,NA,NA,NA,NA
+Service Center,California,WSC,2041,6155,1690,5610,42983,62452,8328,335484
+Service Center,Nebraska,NSC,49442,46308,2317,102582,1554,2105,470,3174
+Service Center,Texas,SSC,10774,11183,504,22524,306,384,60,731
+Service Center,Vermont,ESC,11758,17591,1245,18266,11856,3750,1624,160418

@@ -1,0 +1,1038 @@
+"year","quarter","state","city","code","immid_R","immid_A","immid_D","immid_P","other_R","other_A","other_D","other_P"
+"2014","1","Alaska","Anchorage ","ANC",105,83,18,237,NA,NA,NA,NA
+"2014","1","Arizona","Phoenix ","PHO",1002,871,48,2872,15,14,NA,136
+"2014","1","Arizona","Tucson","TUC",327,304,NA,878,NA,NA,NA,54
+"2014","1","Arkansas","Fort Smith ","FSA",107,82,NA,334,NA,NA,NA,14
+"2014","1","California","Chula Vista","CVC",674,367,27,1860,22,13,NA,90
+"2014","1","California","Fresno ","FRE",709,445,17,2115,NA,31,NA,57
+"2014","1","California","Imperial","IMP",141,189,NA,372,14,NA,NA,42
+"2014","1","California","Los Angeles ","LOS",1815,1712,76,4565,52,63,NA,251
+"2014","1","California","Los Angeles County ","LAC",1921,1473,207,5884,40,31,26,369
+"2014","1","California","Sacramento ","SAC",761,620,60,2180,15,NA,NA,78
+"2014","1","California","San Bernardino","SBD",1458,1133,96,3967,25,27,15,169
+"2014","1","California","San Diego ","SND",526,296,20,1408,28,NA,NA,88
+"2014","1","California","San Fernando Valley","SFV",1267,1012,62,3465,17,10,NA,195
+"2014","1","California","San Francisco","SFR",1897,1484,69,4821,39,93,NA,262
+"2014","1","California","San Jose ","SNJ",1189,775,27,3225,47,82,NA,138
+"2014","1","California","Santa Ana","SAA",1310,915,51,3942,40,24,NA,278
+"2014","1","Colorado","Denver ","DEN",910,452,88,2744,15,NA,NA,89
+"2014","1","Connecticut","Hartford ","HAR",820,501,49,2558,14,NA,NA,102
+"2014","1","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2014","1","District of Columbia","Washington ","WAS",1453,1334,174,4487,43,55,14,192
+"2014","1","Florida","Hialeah","HIA",604,348,32,1754,14,26,NA,79
+"2014","1","Florida","Jacksonville","JAC",404,304,56,999,NA,NA,NA,35
+"2014","1","Florida","Kendall","KND",572,508,43,1832,10,17,NA,98
+"2014","1","Florida","Miami ","MIA",932,650,89,3686,28,25,16,201
+"2014","1","Florida","Oakland Park","OKL",1293,1125,63,3638,23,50,NA,158
+"2014","1","Florida","Orlando ","ORL",919,570,94,3330,15,NA,NA,92
+"2014","1","Florida","Tampa ","TAM",904,589,82,2950,15,NA,NA,123
+"2014","1","Florida","West Palm Beach","WPB",681,482,80,1898,17,14,NA,244
+"2014","1","Georgia","Atlanta ","ATL",1967,2444,100,7331,57,58,NA,290
+"2014","1","Hawaii","Honolulu ","HHW",336,288,29,667,NA,NA,NA,30
+"2014","1","Idaho","Boise ","BOI",98,216,NA,329,NA,11,NA,10
+"2014","1","Illinois","Chicago ","CHI",2885,1318,137,9355,55,NA,NA,512
+"2014","1","Indiana","Indianapolis ","INP",398,413,38,1148,NA,NA,NA,49
+"2014","1","Iowa","Des Moines","DSM",149,262,16,457,NA,NA,NA,20
+"2014","1","Kansas","Wichita","WIC",142,115,NA,430,NA,NA,NA,15
+"2014","1","Kentucky","Louisville ","LOU",258,150,16,703,11,NA,NA,29
+"2014","1","Louisiana","New Orleans ","NOL",430,304,42,1491,12,NA,NA,77
+"2014","1","Maine","Portland ","POM",78,62,11,179,NA,NA,NA,NA
+"2014","1","Maryland","Baltimore ","BAL",1446,1327,95,4436,39,24,NA,132
+"2014","1","Massachusetts","Boston ","BOS",1506,1186,105,4176,22,24,NA,80
+"2014","1","Massachusetts","Lawrence","LAW",577,343,29,1670,13,NA,NA,54
+"2014","1","Michigan","Detroit ","DET",889,836,57,2847,15,NA,NA,293
+"2014","1","Minnesota","St. Paul ","SPM",834,931,72,2629,19,NA,NA,86
+"2014","1","Missouri","Kansas City ","KAN",344,588,47,1103,11,NA,NA,47
+"2014","1","Missouri","St. Louis ","STL",205,309,18,682,NA,NA,NA,35
+"2014","1","Montana","Helena ","HEL",39,449,NA,117,NA,NA,NA,NA
+"2014","1","Nebraska","Omaha ","OMA",227,419,27,700,NA,12,NA,50
+"2014","1","Nevada","Las Vegas ","LVG",716,601,47,1555,11,14,NA,70
+"2014","1","Nevada","Reno ","REN",106,173,11,367,NA,NA,NA,NA
+"2014","1","New Hampshire","Manchester ","MAN",135,120,NA,315,NA,NA,NA,NA
+"2014","1","New Jersey","Mount Laurel","MTL",580,789,80,1645,19,NA,NA,110
+"2014","1","New Jersey","Newark ","NEW",2812,1811,192,8120,57,26,NA,477
+"2014","1","New Mexico","Albuquerque ","ABQ",183,144,12,498,NA,NA,NA,19
+"2014","1","New York","Albany ","ALB",159,106,NA,456,NA,NA,NA,12
+"2014","1","New York","Buffalo ","BUF",260,314,41,742,NA,13,NA,40
+"2014","1","New York","Long Island","LNY",1781,1344,34,5328,37,11,NA,377
+"2014","1","New York","New York ","NYC",5334,4717,500,17713,108,51,NA,1194
+"2014","1","New York","Queens","QNS",1908,1772,55,5746,44,NA,NA,433
+"2014","1","North Carolina","Charlotte ","CLT",548,391,22,1428,NA,19,NA,31
+"2014","1","North Carolina","Raleigh","RAL",514,446,30,1554,NA,NA,NA,41
+"2014","1","Ohio","Cincinnati ","CIN",184,196,16,595,NA,NA,NA,22
+"2014","1","Ohio","Cleveland ","CLE",272,226,18,746,NA,NA,NA,21
+"2014","1","Ohio","Columbus","CLM",295,365,48,820,NA,NA,NA,26
+"2014","1","Oklahoma","Oklahoma City ","OKC",364,220,20,1179,13,NA,NA,78
+"2014","1","Oregon","Portland ","POO",506,326,18,1374,23,13,NA,69
+"2014","1","Pennsylvania","Philadelphia","PHI",1404,1139,116,4198,22,32,NA,137
+"2014","1","Pennsylvania","Pittsburgh ","PIT",252,138,17,558,NA,NA,NA,21
+"2014","1","Rhode Island","Providence ","PRO",243,229,21,614,NA,NA,NA,21
+"2014","1","South Carolina","Charleston ","CHL",319,319,26,1038,NA,NA,NA,43
+"2014","1","Tennessee","Memphis ","MEM",600,503,42,1739,14,NA,NA,73
+"2014","1","Texas","Dallas ","DAL",2113,1228,165,7520,54,24,NA,393
+"2014","1","Texas","El Paso ","ELP",641,972,39,1643,10,NA,NA,48
+"2014","1","Texas","Harlingen ","HLG",712,1204,43,1402,20,31,NA,54
+"2014","1","Texas","Houston ","HOU",2568,1913,140,6480,82,21,NA,524
+"2014","1","Texas","San Antonio ","SNA",1314,1046,28,3330,49,13,NA,217
+"2014","1","Utah","Salt Lake City ","SLC",472,375,26,1443,NA,NA,NA,46
+"2014","1","Vermont","St. Albans ","STA",34,211,NA,118,NA,NA,NA,NA
+"2014","1","Virginia","Norfolk ","NOR",431,351,40,1042,NA,NA,NA,59
+"2014","1","Washington","Seattle ","SEA",1060,680,56,2668,29,50,NA,109
+"2014","1","Washington","Spokane ","SPO",59,67,NA,123,NA,NA,NA,NA
+"2014","1","Washington","Yakima","YAK",125,227,NA,335,NA,NA,NA,NA
+"2014","1","Wisconsin","Milwaukee ","MIL",385,265,22,964,NA,NA,NA,35
+"2014","1","Service Center","California","WSC",224,25046,2355,22200,49814,47365,4629,357263
+"2014","1","Service Center","Nebraska","NSC",41348,16821,68,98851,1542,14716,152,8169
+"2014","1","Service Center","Texas","SSC",8387,11933,60,36932,261,1198,339,1696
+"2014","1","Service Center","Vermont","ESC",8729,1300,1321,20183,18498,15691,3090,141795
+"2014","2","Alaska","Anchorage ","ANC",73,113,12,154,NA,NA,NA,NA
+"2014","2","Arizona","Phoenix ","PHO",733,858,42,1425,NA,30,NA,81
+"2014","2","Arizona","Tucson","TUC",257,299,12,495,NA,NA,NA,NA
+"2014","2","Arkansas","Fort Smith ","FSA",52,92,NA,106,NA,NA,NA,NA
+"2014","2","California","Chula Vista","CVC",449,464,43,713,NA,44,NA,19
+"2014","2","California","Fresno ","FRE",333,492,14,593,NA,26,NA,22
+"2014","2","California","Imperial","IMP",77,243,NA,153,NA,13,NA,NA
+"2014","2","California","Los Angeles ","LOS",1464,1898,122,2697,NA,63,NA,115
+"2014","2","California","Los Angeles County ","LAC",1342,1182,174,2917,NA,49,21,77
+"2014","2","California","Sacramento ","SAC",439,498,50,779,NA,13,NA,NA
+"2014","2","California","San Bernardino","SBD",965,1086,112,2075,NA,56,13,64
+"2014","2","California","San Diego ","SND",409,554,38,615,NA,NA,NA,47
+"2014","2","California","San Fernando Valley","SFV",840,923,69,1924,NA,18,NA,19
+"2014","2","California","San Francisco","SFR",1261,1639,101,2472,NA,103,NA,96
+"2014","2","California","San Jose ","SNJ",826,1017,31,1525,NA,82,NA,22
+"2014","2","California","Santa Ana","SAA",918,999,69,2309,NA,61,NA,14
+"2014","2","Colorado","Denver ","DEN",590,484,74,1689,NA,27,NA,19
+"2014","2","Connecticut","Hartford ","HAR",527,402,92,1477,NA,12,NA,32
+"2014","2","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2014","2","District of Columbia","Washington ","WAS",890,1227,145,1689,NA,58,NA,26
+"2014","2","Florida","Hialeah","HIA",405,541,36,831,NA,24,NA,22
+"2014","2","Florida","Jacksonville","JAC",267,394,38,423,NA,12,NA,12
+"2014","2","Florida","Kendall","KND",418,565,59,916,NA,30,NA,37
+"2014","2","Florida","Miami ","MIA",732,454,121,2783,NA,17,17,148
+"2014","2","Florida","Oakland Park","OKL",1041,1233,135,2133,NA,48,13,77
+"2014","2","Florida","Orlando ","ORL",722,801,114,2167,NA,24,NA,33
+"2014","2","Florida","Tampa ","TAM",737,459,83,1883,NA,27,NA,46
+"2014","2","Florida","West Palm Beach","WPB",533,529,58,925,NA,25,NA,161
+"2014","2","Georgia","Atlanta ","ATL",1268,2274,279,3460,NA,37,16,116
+"2014","2","Hawaii","Honolulu ","HHW",237,207,10,611,NA,NA,NA,29
+"2014","2","Idaho","Boise ","BOI",66,90,14,129,NA,NA,NA,NA
+"2014","2","Illinois","Chicago ","CHI",1978,1281,158,6526,NA,79,NA,327
+"2014","2","Indiana","Indianapolis ","INP",261,300,62,513,NA,10,NA,17
+"2014","2","Iowa","Des Moines","DSM",111,108,15,232,NA,NA,NA,10
+"2014","2","Kansas","Wichita","WIC",88,104,NA,186,NA,NA,NA,11
+"2014","2","Kentucky","Louisville ","LOU",152,172,29,291,NA,NA,NA,10
+"2014","2","Louisiana","New Orleans ","NOL",291,467,39,643,NA,15,NA,13
+"2014","2","Maine","Portland ","POM",51,147,13,83,NA,NA,NA,NA
+"2014","2","Maryland","Baltimore ","BAL",953,1105,105,2311,NA,27,NA,43
+"2014","2","Massachusetts","Boston ","BOS",1003,960,133,2210,NA,19,NA,32
+"2014","2","Massachusetts","Lawrence","LAW",358,390,63,819,NA,NA,NA,31
+"2014","2","Michigan","Detroit ","DET",553,838,95,1348,NA,41,NA,201
+"2014","2","Minnesota","St. Paul ","SPM",441,649,98,942,NA,19,NA,37
+"2014","2","Missouri","Kansas City ","KAN",252,411,54,412,NA,NA,NA,30
+"2014","2","Missouri","St. Louis ","STL",153,208,29,347,NA,NA,NA,18
+"2014","2","Montana","Helena ","HEL",28,142,NA,62,NA,NA,NA,NA
+"2014","2","Nebraska","Omaha ","OMA",111,233,16,155,NA,26,NA,NA
+"2014","2","Nevada","Las Vegas ","LVG",521,588,42,849,NA,34,10,15
+"2014","2","Nevada","Reno ","REN",65,121,15,120,NA,NA,NA,NA
+"2014","2","New Hampshire","Manchester ","MAN",82,105,NA,168,NA,NA,NA,NA
+"2014","2","New Jersey","Mount Laurel","MTL",376,409,43,723,NA,NA,NA,40
+"2014","2","New Jersey","Newark ","NEW",1914,2447,165,4029,NA,58,NA,327
+"2014","2","New Mexico","Albuquerque ","ABQ",109,162,11,189,NA,NA,NA,NA
+"2014","2","New York","Albany ","ALB",90,114,14,241,NA,NA,NA,NA
+"2014","2","New York","Buffalo ","BUF",153,256,25,386,NA,13,NA,NA
+"2014","2","New York","Long Island","LNY",1058,1133,23,2603,NA,13,NA,125
+"2014","2","New York","New York ","NYC",3478,5087,484,8374,NA,68,18,806
+"2014","2","New York","Queens","QNS",1267,1002,49,3264,NA,NA,NA,225
+"2014","2","North Carolina","Charlotte ","CLT",361,411,27,515,NA,11,NA,NA
+"2014","2","North Carolina","Raleigh","RAL",346,461,60,744,NA,14,NA,16
+"2014","2","Ohio","Cincinnati ","CIN",149,172,16,308,NA,NA,NA,NA
+"2014","2","Ohio","Cleveland ","CLE",186,256,39,283,NA,NA,NA,NA
+"2014","2","Ohio","Columbus","CLM",177,238,68,260,NA,NA,NA,NA
+"2014","2","Oklahoma","Oklahoma City ","OKC",235,117,18,762,NA,NA,NA,48
+"2014","2","Oregon","Portland ","POO",315,196,13,804,NA,11,NA,13
+"2014","2","Pennsylvania","Philadelphia","PHI",836,1004,86,1941,NA,33,NA,13
+"2014","2","Pennsylvania","Pittsburgh ","PIT",179,148,15,332,NA,10,NA,NA
+"2014","2","Rhode Island","Providence ","PRO",151,229,17,273,NA,NA,NA,NA
+"2014","2","South Carolina","Charleston ","CHL",205,339,65,433,NA,18,NA,NA
+"2014","2","Tennessee","Memphis ","MEM",345,504,60,695,NA,32,NA,24
+"2014","2","Texas","Dallas ","DAL",1447,1378,180,4563,NA,36,NA,231
+"2014","2","Texas","El Paso ","ELP",476,646,65,655,NA,NA,NA,43
+"2014","2","Texas","Harlingen ","HLG",565,829,77,906,NA,NA,NA,21
+"2014","2","Texas","Houston ","HOU",1902,1914,99,3255,NA,70,NA,341
+"2014","2","Texas","San Antonio ","SNA",1002,775,59,1874,NA,63,NA,62
+"2014","2","Utah","Salt Lake City ","SLC",403,412,47,874,NA,12,NA,25
+"2014","2","Vermont","St. Albans ","STA",29,89,11,52,NA,NA,NA,NA
+"2014","2","Virginia","Norfolk ","NOR",284,324,25,526,NA,NA,NA,NA
+"2014","2","Washington","Seattle ","SEA",685,610,47,1272,NA,10,NA,NA
+"2014","2","Washington","Spokane ","SPO",35,47,NA,40,NA,NA,NA,NA
+"2014","2","Washington","Yakima","YAK",74,195,NA,148,NA,NA,NA,NA
+"2014","2","Wisconsin","Milwaukee ","MIL",272,244,37,482,NA,NA,NA,14
+"2014","2","Service Center","California","WSC",319,47234,2484,19553,47689,32185,4879,373067
+"2014","2","Service Center","Nebraska","NSC",57050,52379,853,121977,1774,4448,624,5722
+"2014","2","Service Center","Texas","SSC",11605,30571,450,36952,329,1609,99,1454
+"2014","2","Service Center","Vermont","ESC",12322,4216,1946,31986,12572,11347,2663,142011
+"2014","3","Alaska","Anchorage ","ANC",58,110,NA,105,NA,NA,NA,NA
+"2014","3","Arizona","Phoenix ","PHO",894,782,42,1602,NA,25,NA,105
+"2014","3","Arizona","Tucson","TUC",348,280,14,575,NA,NA,NA,NA
+"2014","3","Arkansas","Fort Smith ","FSA",90,74,NA,119,NA,NA,NA,NA
+"2014","3","California","Chula Vista","CVC",521,422,26,754,NA,NA,NA,NA
+"2014","3","California","Fresno ","FRE",432,362,13,783,NA,22,NA,29
+"2014","3","California","Imperial","IMP",97,125,13,171,NA,NA,NA,10
+"2014","3","California","Los Angeles ","LOS",1700,1658,97,2949,NA,NA,NA,134
+"2014","3","California","Los Angeles County ","LAC",1698,1102,114,3645,NA,17,NA,66
+"2014","3","California","Sacramento ","SAC",498,478,50,923,NA,NA,NA,NA
+"2014","3","California","San Bernardino","SBD",1237,1028,43,2466,NA,24,NA,10
+"2014","3","California","San Diego ","SND",407,384,30,701,NA,16,NA,24
+"2014","3","California","San Fernando Valley","SFV",997,1016,72,1995,NA,11,NA,36
+"2014","3","California","San Francisco","SFR",1507,1494,71,2646,NA,50,NA,69
+"2014","3","California","San Jose ","SNJ",959,940,27,1520,NA,24,NA,NA
+"2014","3","California","Santa Ana","SAA",966,1045,56,2401,NA,11,NA,NA
+"2014","3","Colorado","Denver ","DEN",698,386,77,2104,NA,26,NA,NA
+"2014","3","Connecticut","Hartford ","HAR",567,503,59,1624,NA,NA,NA,NA
+"2014","3","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2014","3","District of Columbia","Washington ","WAS",1001,843,128,2203,NA,11,NA,35
+"2014","3","Florida","Hialeah","HIA",481,436,40,929,NA,17,NA,30
+"2014","3","Florida","Jacksonville","JAC",309,354,45,494,NA,NA,NA,12
+"2014","3","Florida","Kendall","KND",462,370,48,1070,NA,12,NA,32
+"2014","3","Florida","Miami ","MIA",883,834,86,2806,NA,32,NA,128
+"2014","3","Florida","Oakland Park","OKL",1137,970,114,2445,NA,29,NA,63
+"2014","3","Florida","Orlando ","ORL",768,676,85,2307,NA,NA,NA,26
+"2014","3","Florida","TAM","TAM",771,503,72,2244,NA,21,NA,31
+"2014","3","Florida","West Palm Beach","WPB",591,605,59,930,NA,27,NA,NA
+"2014","3","Georgia","Atlanta ","ATL",1546,2149,273,2611,NA,84,NA,30
+"2014","3","Hawaii","Honolulu ","HHW",266,220,14,653,NA,NA,NA,34
+"2014","3","Idaho","Boise ","BOI",80,85,NA,119,NA,NA,NA,NA
+"2014","3","Illinois","Chicago ","CHI",2028,1649,183,6722,NA,30,NA,300
+"2014","3","Indiana","Indianapolis ","INP",293,296,37,534,NA,NA,NA,10
+"2014","3","Iowa","Des Moines","DSM",103,87,NA,273,NA,NA,NA,14
+"2014","3","Kansas","Wichita","WIC",141,100,NA,225,NA,NA,NA,10
+"2014","3","Kentucky","Louisville ","LOU",145,166,20,306,NA,NA,NA,12
+"2014","3","Louisiana","New Orleans ","NOL",323,405,34,541,NA,20,NA,NA
+"2014","3","Maine","Portland ","POM",48,73,10,79,NA,NA,NA,NA
+"2014","3","Maryland","Baltimore ","BAL",1063,963,83,2553,NA,22,NA,18
+"2014","3","Massachusetts","Boston ","BOS",1103,1094,73,2338,NA,15,NA,24
+"2014","3","Massachusetts","Lawrence","LAW",440,403,36,871,NA,NA,NA,23
+"2014","3","Michigan","Detroit ","DET",594,719,68,1343,NA,28,NA,176
+"2014","3","Minnesota","St. Paul ","SPM",485,497,43,962,NA,11,NA,28
+"2014","3","Missouri","Kansas City ","KAN",305,286,35,449,NA,11,NA,23
+"2014","3","Missouri","St. Louis ","STL",146,186,17,334,NA,NA,NA,10
+"2014","3","Montana","Helena ","HEL",32,121,NA,101,NA,NA,NA,NA
+"2014","3","Nebraska","Omaha ","OMA",120,77,14,247,NA,NA,NA,NA
+"2014","3","Nevada","Las Vegas ","LVG",616,427,28,986,NA,NA,NA,20
+"2014","3","Nevada","Reno ","REN",73,99,13,168,NA,NA,NA,NA
+"2014","3","New Hampshire","Manchester ","MAN",86,125,NA,140,NA,NA,NA,NA
+"2014","3","New Jersey","Mount Laurel","MTL",434,442,40,691,NA,NA,NA,14
+"2014","3","New Jersey","Newark ","NEW",2117,2093,156,4151,NA,71,11,274
+"2014","3","New Mexico","Albuquerque ","ABQ",162,102,12,260,NA,NA,NA,NA
+"2014","3","New York","Albany ","ALB",106,102,NA,239,NA,NA,NA,11
+"2014","3","New York","Buffalo ","BUF",198,224,26,479,NA,NA,NA,16
+"2014","3","New York","Long Island","LNY",1291,995,33,2750,NA,12,NA,50
+"2014","3","New York","New York ","NYC",3940,4204,636,9450,NA,54,20,365
+"2014","3","New York","Queens","QNS",1365,1803,38,2880,NA,NA,NA,40
+"2014","3","North Carolina","Charlotte ","CLT",398,415,42,580,NA,NA,NA,NA
+"2014","3","North Carolina","Raleigh","RAL",431,358,45,826,NA,NA,NA,NA
+"2014","3","Ohio","Cincinnati ","CIN",136,186,NA,272,NA,NA,NA,NA
+"2014","3","Ohio","Cleveland ","CLE",218,214,17,330,NA,NA,NA,NA
+"2014","3","Ohio","Columbus","CLM",235,215,41,304,NA,NA,NA,NA
+"2014","3","Oklahoma","Oklahoma City ","OKC",264,133,22,990,NA,10,NA,36
+"2014","3","Oregon","Portland ","POO",377,192,27,927,NA,NA,NA,NA
+"2014","3","Pennsylvania","Philadelphia","PHI",947,924,81,2018,NA,11,NA,12
+"2014","3","Pennsylvania","Pittsburgh ","PIT",208,135,17,352,NA,NA,NA,NA
+"2014","3","Rhode Island","Providence ","PRO",176,172,27,288,NA,NA,NA,NA
+"2014","3","South Carolina","Charleston ","CHL",252,271,30,422,NA,NA,NA,NA
+"2014","3","Tennessee","Memphis ","MEM",395,385,30,756,NA,15,NA,12
+"2014","3","Texas","Dallas ","DAL",1757,1616,141,4808,NA,24,NA,238
+"2014","3","Texas","El Paso ","ELP",666,480,25,832,NA,NA,NA,42
+"2014","3","Texas","Harlingen ","HLG",685,555,35,1026,NA,15,NA,NA
+"2014","3","Texas","Houston ","HOU",2065,1838,158,3423,NA,46,NA,463
+"2014","3","Texas","San Antonio ","SNA",1179,1319,41,1748,NA,39,NA,31
+"2014","3","Utah","Salt Lake City ","SLC",442,383,24,990,NA,12,NA,22
+"2014","3","Vermont","St. Albans ","STA",23,63,NA,135,NA,NA,NA,NA
+"2014","3","Virginia","Norfolk ","NOR",304,295,34,531,NA,NA,NA,NA
+"2014","3","Washington","Seattle ","SEA",710,420,37,1436,NA,NA,NA,NA
+"2014","3","Washington","Spokane ","SPO",41,59,NA,59,NA,NA,NA,NA
+"2014","3","Washington","Yakima","YAK",76,203,10,98,NA,NA,NA,NA
+"2014","3","Wisconsin","Milwaukee ","MIL",262,315,34,540,NA,NA,NA,13
+"2014","3","Service Center","California","WSC",2245,12850,3044,6655,54094,49439,4242,374442
+"2014","3","Service Center","Nebraska","NSC",62686,49570,1840,127601,2013,2532,430,4985
+"2014","3","Service Center","Texas","SSC",13097,23844,1179,23756,396,1082,153,831
+"2014","3","Service Center","Vermont","ESC",13836,14699,1324,30130,14055,5418,2511,149042
+"2014","4","Alaska","Anchorage ","ANC",74,117,NA,114,NA,NA,NA,NA
+"2014","4","Arizona","Phoenix ","PHO",784,801,40,1803,NA,NA,NA,10
+"2014","4","Arizona","Tucson","TUC",233,283,14,520,NA,NA,NA,NA
+"2014","4","Arkansas","Fort Smith ","FSA",71,101,NA,117,NA,NA,NA,NA
+"2014","4","California","Chula Vista","CVC",464,380,11,861,NA,NA,NA,13
+"2014","4","California","Fresno ","FRE",428,352,NA,939,NA,NA,NA,43
+"2014","4","California","Imperial","IMP",103,160,NA,161,NA,NA,NA,NA
+"2014","4","California","Los Angeles ","LOS",1480,1759,96,3260,NA,NA,NA,80
+"2014","4","California","Los Angeles County ","LAC",1506,1216,150,4092,NA,11,NA,54
+"2014","4","California","Sacramento ","SAC",514,496,37,973,NA,NA,NA,NA
+"2014","4","California","San Bernardino","SBD",1151,902,58,2980,NA,NA,NA,47
+"2014","4","California","San Diego ","SND",468,295,23,946,NA,NA,NA,12
+"2014","4","California","San Fernando Valley","SFV",899,737,70,2444,NA,NA,NA,86
+"2014","4","California","San Francisco","SFR",1434,1462,58,2773,NA,25,NA,74
+"2014","4","California","San Jose ","SNJ",887,761,37,1738,NA,30,NA,13
+"2014","4","California","Santa Ana","SAA",933,983,81,2162,NA,15,NA,11
+"2014","4","Colorado","Denver ","DEN",690,489,93,2277,NA,NA,NA,NA
+"2014","4","Connecticut","Hartford ","HAR",645,674,85,1607,NA,NA,NA,NA
+"2014","4","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2014","4","District of Columbia","Washington ","WAS",1071,775,78,2547,NA,12,NA,21
+"2014","4","Florida","Hialeah","HIA",449,422,34,1003,NA,14,NA,18
+"2014","4","Florida","Jacksonville","JAC",345,283,26,576,NA,NA,NA,13
+"2014","4","Florida","Kendall","KND",393,608,52,911,NA,15,NA,23
+"2014","4","Florida","Miami ","MIA",761,1262,69,2337,NA,34,NA,102
+"2014","4","Florida","Oakland Park","OKL",963,793,95,2728,NA,24,NA,56
+"2014","4","Florida","Orlando ","ORL",740,899,94,2130,NA,25,NA,11
+"2014","4","Florida","TAM","TAM",672,734,70,2260,NA,21,NA,13
+"2014","4","Florida","West Palm Beach","WPB",499,478,63,1062,NA,15,NA,NA
+"2014","4","Georgia","Atlanta ","ATL",1509,1554,111,2743,NA,24,NA,14
+"2014","4","Hawaii","Honolulu ","HHW",265,208,23,652,NA,NA,NA,10
+"2014","4","Idaho","Boise ","BOI",70,146,24,103,NA,NA,NA,NA
+"2014","4","Illinois","Chicago ","CHI",2068,2288,118,6414,NA,88,NA,224
+"2014","4","Indiana","Indianapolis ","INP",281,338,37,599,NA,11,NA,NA
+"2014","4","Iowa","Des Moines","DSM",125,47,NA,344,NA,NA,NA,23
+"2014","4","Kansas","Wichita","WIC",121,141,NA,203,NA,NA,NA,11
+"2014","4","Kentucky","Louisville ","LOU",163,212,29,401,NA,NA,NA,NA
+"2014","4","Louisiana","New Orleans ","NOL",339,391,48,505,NA,NA,NA,NA
+"2014","4","Maine","Portland ","POM",56,57,NA,73,NA,NA,NA,NA
+"2014","4","Maryland","Baltimore ","BAL",1028,1128,96,2369,NA,12,NA,13
+"2014","4","Massachusetts","Boston ","BOS",1141,1105,78,2297,NA,NA,NA,37
+"2014","4","Massachusetts","Lawrence","LAW",388,289,33,1034,NA,NA,NA,31
+"2014","4","Michigan","Detroit ","DET",599,786,81,1227,NA,43,NA,125
+"2014","4","Minnesota","St. Paul ","SPM",527,347,65,1073,NA,22,NA,NA
+"2014","4","Missouri","Kansas City ","KAN",282,224,23,580,NA,NA,NA,22
+"2014","4","Missouri","St. Louis ","STL",156,178,14,338,NA,NA,NA,NA
+"2014","4","Montana","Helena ","HEL",31,142,12,48,NA,NA,NA,NA
+"2014","4","Nebraska","Omaha ","OMA",128,175,NA,297,NA,NA,NA,NA
+"2014","4","Nevada","Las Vegas ","LVG",575,582,75,1016,NA,16,NA,NA
+"2014","4","Nevada","Reno ","REN",73,118,13,140,NA,NA,NA,NA
+"2014","4","New Hampshire","Manchester ","MAN",86,87,NA,152,NA,NA,NA,NA
+"2014","4","New Jersey","Mount Laurel","MTL",403,399,40,698,NA,NA,NA,15
+"2014","4","New Jersey","Newark ","NEW",2193,2175,173,3518,NA,22,NA,25
+"2014","4","New Mexico","Albuquerque ","ABQ",179,157,10,272,NA,NA,NA,NA
+"2014","4","New York","Albany ","ALB",104,91,NA,246,NA,NA,NA,13
+"2014","4","New York","Buffalo ","BUF",197,270,26,474,NA,11,NA,60
+"2014","4","New York","Long Island","LNY",1270,988,46,3060,NA,10,NA,74
+"2014","4","New York","New York ","NYC",3658,4385,758,8161,NA,43,19,315
+"2014","4","New York","Queens","QNS",1253,1415,42,2814,NA,11,NA,72
+"2014","4","North Carolina","Charlotte ","CLT",445,498,34,790,NA,NA,NA,NA
+"2014","4","North Carolina","Raleigh","RAL",377,464,38,738,NA,NA,NA,27
+"2014","4","Ohio","Cincinnati ","CIN",115,129,NA,321,NA,NA,NA,NA
+"2014","4","Ohio","Cleveland ","CLE",214,229,19,379,NA,NA,NA,NA
+"2014","4","Ohio","Columbus","CLM",222,316,35,304,NA,NA,NA,NA
+"2014","4","Oklahoma","Oklahoma City ","OKC",283,320,25,969,NA,18,NA,18
+"2014","4","Oregon","Portland ","POO",356,262,NA,1052,NA,NA,NA,NA
+"2014","4","Pennsylvania","Philadelphia","PHI",991,1025,77,2075,NA,12,NA,20
+"2014","4","Pennsylvania","Pittsburgh ","PIT",184,149,21,394,NA,NA,NA,NA
+"2014","4","Rhode Island","Providence ","PRO",165,182,21,298,NA,NA,NA,NA
+"2014","4","South Carolina","Charleston ","CHL",230,265,36,399,NA,NA,NA,NA
+"2014","4","Tennessee","Memphis ","MEM",435,461,42,720,NA,NA,NA,NA
+"2014","4","Texas","Dallas ","DAL",1777,790,217,5624,NA,18,NA,238
+"2014","4","Texas","El Paso ","ELP",559,676,34,868,NA,12,NA,38
+"2014","4","Texas","Harlingen ","HLG",600,566,39,984,NA,NA,NA,10
+"2014","4","Texas","Houston ","HOU",2063,2042,262,2934,NA,153,NA,399
+"2014","4","Texas","San Antonio ","SNA",1064,1204,54,1722,NA,64,NA,27
+"2014","4","Utah","Salt Lake City ","SLC",472,564,15,958,NA,10,NA,21
+"2014","4","Vermont","St. Albans ","STA",36,40,12,133,NA,NA,NA,NA
+"2014","4","Virginia","Norfolk ","NOR",317,243,26,636,NA,NA,NA,NA
+"2014","4","Washington","Seattle ","SEA",724,479,54,1587,NA,NA,NA,10
+"2014","4","Washington","Spokane ","SPO",42,63,NA,75,NA,NA,NA,NA
+"2014","4","Washington","Yakima","YAK",69,193,12,102,NA,NA,NA,NA
+"2014","4","Wisconsin","Milwaukee ","MIL",272,308,54,458,NA,NA,NA,12
+"2014","4","Service Center","California","WSC",1972,21383,2026,10076,44598,53322,6415,361325
+"2014","4","Service Center","Nebraska","NSC",52469,43849,1813,105587,1642,2438,185,3786
+"2014","4","Service Center","Texas","SSC",11563,11417,952,23665,303,431,173,769
+"2014","4","Service Center","Vermont","ESC",12225,16000,2080,24824,11861,6050,2749,152854
+"2015","1","Alaska","Anchorage ","ANC",77,96,NA,122,NA,NA,NA,NA
+"2015","1","Arizona","Phoenix ","PHO",698,519,31,2007,NA,NA,NA,44
+"2015","1","Arizona","Tucson","TUC",262,191,NA,592,NA,NA,NA,NA
+"2015","1","Arkansas","Fort Smith ","FSA",79,59,NA,216,NA,NA,NA,NA
+"2015","1","California","Chula Vista","CVC",519,335,20,1056,NA,NA,NA,11
+"2015","1","California","Fresno ","FRE",394,346,19,1033,NA,NA,NA,24
+"2015","1","California","Imperial","IMP",73,113,NA,162,NA,NA,NA,NA
+"2015","1","California","Los Angeles ","LOS",1518,1249,104,3757,NA,15,NA,84
+"2015","1","California","Los Angeles County ","LAC",1476,1286,97,4178,NA,12,NA,58
+"2015","1","California","Sacramento ","SAC",555,411,36,1274,NA,13,NA,NA
+"2015","1","California","San Bernardino","SBD",1118,678,88,3513,NA,NA,NA,45
+"2015","1","California","San Diego ","SND",444,407,32,948,NA,NA,NA,28
+"2015","1","California","San Fernando Valley","SFV",842,890,72,2526,NA,NA,NA,84
+"2015","1","California","San Francisco","SFR",1376,1196,64,3041,NA,24,NA,81
+"2015","1","California","San Jose ","SNJ",878,626,132,1860,NA,NA,NA,11
+"2015","1","California","Santa Ana","SAA",939,595,38,2472,NA,NA,NA,11
+"2015","1","Colorado","Denver ","DEN",713,595,73,2603,NA,NA,NA,23
+"2015","1","Connecticut","Hartford ","HAR",606,383,30,1855,NA,NA,NA,NA
+"2015","1","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2015","1","District of Columbia","Washington ","WAS",1060,982,94,2260,NA,17,NA,228
+"2015","1","Florida","Hialeah","HIA",492,252,39,1252,NA,NA,NA,19
+"2015","1","Florida","Jacksonville","JAC",300,207,26,851,NA,NA,NA,NA
+"2015","1","Florida","Kendall","KND",426,378,53,1069,NA,11,NA,24
+"2015","1","Florida","Miami ","MIA",856,733,94,2819,NA,10,NA,66
+"2015","1","Florida","Oakland Park","OKL",1039,772,86,2507,NA,12,12,67
+"2015","1","Florida","Orlando ","ORL",764,469,74,2352,NA,NA,NA,60
+"2015","1","Florida","TAM","TAM",717,620,70,2132,NA,21,NA,39
+"2015","1","Florida","West Palm Beach","WPB",516,435,66,1355,NA,20,NA,20
+"2015","1","Georgia","Atlanta ","ATL",1591,1243,137,4081,NA,28,NA,99
+"2015","1","Hawaii","Honolulu ","HHW",249,222,29,673,NA,NA,NA,NA
+"2015","1","Idaho","Boise ","BOI",96,119,NA,142,NA,NA,NA,NA
+"2015","1","Illinois","Chicago ","CHI",2234,1299,90,7582,NA,43,NA,440
+"2015","1","Indiana","Indianapolis ","INP",295,319,49,664,NA,NA,NA,10
+"2015","1","Iowa","Des Moines","DSM",138,42,NA,300,NA,NA,NA,NA
+"2015","1","Kansas","Wichita","WIC",122,106,12,298,NA,NA,NA,NA
+"2015","1","Kentucky","Louisville ","LOU",142,170,32,432,NA,12,NA,NA
+"2015","1","Louisiana","New Orleans ","NOL",318,254,17,744,NA,NA,NA,NA
+"2015","1","Maine","Portland ","POM",64,53,11,93,NA,NA,NA,NA
+"2015","1","Maryland","Baltimore ","BAL",1054,593,53,2815,NA,16,NA,15
+"2015","1","Massachusetts","Boston ","BOS",1195,767,61,2720,NA,16,NA,NA
+"2015","1","Massachusetts","Lawrence","LAW",431,346,30,1093,NA,NA,NA,11
+"2015","1","Michigan","Detroit ","DET",608,432,78,1681,NA,NA,NA,415
+"2015","1","Minnesota","St. Paul ","SPM",544,385,40,1482,NA,NA,NA,11
+"2015","1","Missouri","Kansas City ","KAN",311,251,37,659,NA,NA,NA,NA
+"2015","1","Missouri","St. Louis ","STL",164,109,18,470,NA,NA,NA,NA
+"2015","1","Montana","Helena ","HEL",32,75,NA,61,NA,NA,NA,NA
+"2015","1","Nebraska","Omaha ","OMA",137,274,20,318,NA,NA,NA,NA
+"2015","1","Nevada","Las Vegas ","LVG",567,497,56,1070,NA,NA,NA,NA
+"2015","1","Nevada","Reno ","REN",69,56,NA,205,NA,NA,NA,NA
+"2015","1","New Hampshire","Manchester ","MAN",104,72,NA,175,NA,NA,NA,NA
+"2015","1","New Jersey","Mount Laurel","MTL",447,450,46,984,NA,NA,NA,NA
+"2015","1","New Jersey","Newark ","NEW",2212,1471,141,4268,NA,25,NA,23
+"2015","1","New Mexico","Albuquerque ","ABQ",179,83,NA,349,NA,NA,NA,NA
+"2015","1","New York","Albany ","ALB",117,90,NA,302,NA,NA,NA,14
+"2015","1","New York","Buffalo ","BUF",196,181,41,537,NA,20,NA,80
+"2015","1","New York","Long Island","LNY",1204,627,47,3768,NA,11,NA,144
+"2015","1","New York","New York ","NYC",3864,3137,511,10114,NA,23,10,289
+"2015","1","New York","Queens","QNS",1290,565,30,3504,NA,NA,NA,163
+"2015","1","North Carolina","Charlotte ","CLT",372,341,32,804,NA,NA,NA,NA
+"2015","1","North Carolina","Raleigh","RAL",392,342,30,933,NA,NA,NA,NA
+"2015","1","Ohio","Cincinnati ","CIN",174,135,10,342,NA,NA,NA,NA
+"2015","1","Ohio","Cleveland ","CLE",225,222,20,447,NA,NA,NA,NA
+"2015","1","Ohio","Columbus","CLM",232,192,24,484,NA,NA,NA,NA
+"2015","1","Oklahoma","Oklahoma City ","OKC",285,210,23,964,NA,NA,NA,NA
+"2015","1","Oregon","Portland ","POO",399,315,11,1130,NA,NA,NA,NA
+"2015","1","Pennsylvania","Philadelphia","PHI",975,762,74,2394,NA,13,NA,11
+"2015","1","Pennsylvania","Pittsburgh ","PIT",183,183,NA,410,NA,NA,NA,NA
+"2015","1","Rhode Island","Providence ","PRO",200,131,20,367,NA,NA,NA,NA
+"2015","1","South Carolina","Charleston ","CHL",262,196,32,592,NA,NA,NA,19
+"2015","1","Tennessee","Memphis ","MEM",399,362,25,1055,NA,NA,NA,56
+"2015","1","Texas","Dallas ","DAL",1699,1086,138,6449,NA,13,NA,160
+"2015","1","Texas","El Paso ","ELP",529,410,28,1060,NA,NA,NA,22
+"2015","1","Texas","Harlingen ","HLG",649,357,32,1437,NA,NA,NA,20
+"2015","1","Texas","Houston ","HOU",2016,1210,211,4218,NA,20,NA,449
+"2015","1","Texas","San Antonio ","SNA",1106,508,49,2412,NA,29,NA,34
+"2015","1","Utah","Salt Lake City ","SLC",481,375,32,863,NA,NA,NA,NA
+"2015","1","Vermont","St. Albans ","STA",31,60,21,88,NA,NA,NA,NA
+"2015","1","Virginia","Norfolk ","NOR",322,265,26,800,NA,NA,NA,NA
+"2015","1","Washington","Seattle ","SEA",731,458,45,1819,NA,14,NA,NA
+"2015","1","Washington","Spokane ","SPO",39,49,10,82,NA,NA,NA,NA
+"2015","1","Washington","Yakima","YAK",66,84,16,102,NA,NA,NA,NA
+"2015","1","Wisconsin","Milwaukee ","MIL",267,229,33,600,NA,NA,NA,NA
+"2015","1","Service Center","California","WSC",2041,6155,1690,5610,42983,62452,8328,335484
+"2015","1","Service Center","Nebraska","NSC",49442,46308,2317,102582,1554,2105,470,3174
+"2015","1","Service Center","Texas","SSC",10774,11183,504,22524,306,384,60,731
+"2015","1","Service Center","Vermont","ESC",11758,17591,1245,18266,11856,3750,1624,160418
+"2015","2","Alaska","Anchorage ","ANC",62,89,11,121,NA,NA,NA,NA
+"2015","2","Arizona","Phoenix ","PHO",762,559,25,2176,NA,NA,NA,48
+"2015","2","Arizona","Tucson","TUC",302,233,18,608,NA,NA,NA,NA
+"2015","2","Arkansas","Fort Smith ","FSA",64,81,NA,221,NA,NA,NA,NA
+"2015","2","California","Chula Vista","CVC",473,484,31,1051,NA,NA,NA,10
+"2015","2","California","Fresno ","FRE",420,360,45,1096,NA,NA,NA,32
+"2015","2","California","Imperial","IMP",100,133,NA,181,NA,NA,NA,NA
+"2015","2","California","Los Angeles ","LOS",1435,1487,109,3925,NA,NA,NA,103
+"2015","2","California","Los Angeles County ","LAC",1371,1303,96,4009,NA,12,NA,47
+"2015","2","California","Sacramento ","SAC",511,628,45,1372,NA,NA,NA,NA
+"2015","2","California","San Bernardino","SBD",1134,907,61,3700,NA,NA,NA,52
+"2015","2","California","San Diego ","SND",428,336,22,1019,NA,NA,NA,22
+"2015","2","California","San Fernando Valley","SFV",915,1111,101,2383,NA,15,NA,98
+"2015","2","California","San Francisco","SFR",1347,1241,52,3301,NA,17,11,100
+"2015","2","California","San Jose ","SNJ",876,844,38,1798,NA,NA,NA,NA
+"2015","2","California","Santa Ana","SAA",961,401,31,2900,NA,NA,NA,10
+"2015","2","Colorado","Denver ","DEN",719,588,59,2697,NA,10,NA,NA
+"2015","2","Connecticut","Hartford ","HAR",512,420,55,1901,NA,NA,NA,NA
+"2015","2","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2015","2","District of Columbia","Washington ","WAS",869,1092,61,2141,NA,16,NA,212
+"2015","2","Florida","Hialeah","HIA",497,407,34,1539,NA,NA,NA,17
+"2015","2","Florida","Jacksonville","JAC",314,359,29,833,NA,NA,NA,NA
+"2015","2","Florida","Kendall","KND",438,535,41,933,NA,NA,NA,19
+"2015","2","Florida","Miami ","MIA",892,1155,106,2466,NA,19,NA,58
+"2015","2","Florida","Oakland Park","OKL",1154,1020,105,2563,NA,10,NA,69
+"2015","2","Florida","Orlando ","ORL",754,903,125,2075,NA,10,NA,65
+"2015","2","Florida","TAM","TAM",706,692,51,2180,NA,NA,NA,61
+"2015","2","Florida","West Palm Beach","WPB",600,504,70,1451,NA,14,NA,NA
+"2015","2","Georgia","Atlanta ","ATL",1481,1428,174,3948,NA,33,NA,67
+"2015","2","Hawaii","Honolulu ","HHW",252,294,37,588,NA,NA,NA,NA
+"2015","2","Idaho","Boise ","BOI",78,170,NA,217,NA,NA,NA,NA
+"2015","2","Illinois","Chicago ","CHI",2015,2021,138,7555,NA,43,NA,410
+"2015","2","Indiana","Indianapolis ","INP",285,352,48,595,NA,NA,NA,NA
+"2015","2","Iowa","Des Moines","DSM",125,114,NA,336,NA,NA,NA,10
+"2015","2","Kansas","Wichita","WIC",102,131,NA,255,NA,NA,NA,NA
+"2015","2","Kentucky","Louisville ","LOU",164,135,30,452,NA,NA,NA,NA
+"2015","2","Louisiana","New Orleans ","NOL",333,327,28,725,NA,NA,NA,NA
+"2015","2","Maine","Portland ","POM",52,47,NA,121,NA,NA,NA,NA
+"2015","2","Maryland","Baltimore ","BAL",1095,499,71,3327,NA,NA,NA,NA
+"2015","2","Massachusetts","Boston ","BOS",1079,683,54,3119,NA,NA,NA,14
+"2015","2","Massachusetts","Lawrence","LAW",349,319,33,1120,NA,NA,NA,NA
+"2015","2","Michigan","Detroit ","DET",553,575,61,1714,NA,17,NA,400
+"2015","2","Minnesota","St. Paul ","SPM",509,343,45,1587,NA,NA,NA,NA
+"2015","2","Missouri","Kansas City ","KAN",266,257,20,656,NA,NA,NA,10
+"2015","2","Missouri","St. Louis ","STL",140,162,16,481,NA,NA,NA,NA
+"2015","2","Montana","Helena ","HEL",36,101,NA,107,NA,NA,NA,NA
+"2015","2","Nebraska","Omaha ","OMA",119,284,14,300,NA,NA,NA,NA
+"2015","2","Nevada","Las Vegas ","LVG",602,586,60,1169,NA,NA,NA,NA
+"2015","2","Nevada","Reno ","REN",90,116,12,271,NA,NA,NA,NA
+"2015","2","New Hampshire","Manchester ","MAN",93,84,NA,213,NA,NA,NA,NA
+"2015","2","New Jersey","Mount Laurel","MTL",402,606,43,1016,NA,NA,NA,NA
+"2015","2","New Jersey","Newark ","NEW",2069,1732,129,4658,NA,NA,15,17
+"2015","2","New Mexico","Albuquerque ","ABQ",150,205,NA,369,NA,12,NA,NA
+"2015","2","New York","Albany ","ALB",124,153,NA,290,NA,NA,NA,15
+"2015","2","New York","Buffalo ","BUF",189,276,26,590,NA,52,NA,61
+"2015","2","New York","Long Island","LNY",1130,825,25,3967,NA,NA,NA,186
+"2015","2","New York","New York ","NYC",3705,4124,380,9718,NA,40,11,257
+"2015","2","New York","Queens","QNS",1232,698,14,3466,NA,NA,NA,160
+"2015","2","North Carolina","Charlotte ","CLT",411,357,46,795,NA,NA,NA,NA
+"2015","2","North Carolina","Raleigh","RAL",424,469,24,915,NA,NA,NA,NA
+"2015","2","Ohio","Cincinnati ","CIN",128,159,16,323,NA,NA,NA,10
+"2015","2","Ohio","Cleveland ","CLE",176,246,29,415,NA,NA,NA,NA
+"2015","2","Ohio","Columbus","CLM",208,245,61,464,NA,NA,NA,10
+"2015","2","Oklahoma","Oklahoma City ","OKC",241,234,15,969,NA,NA,NA,NA
+"2015","2","Oregon","Portland ","POO",375,367,19,1116,NA,NA,NA,NA
+"2015","2","Pennsylvania","Philadelphia","PHI",888,941,126,2405,NA,NA,NA,NA
+"2015","2","Pennsylvania","Pittsburgh ","PIT",203,142,14,494,NA,NA,NA,NA
+"2015","2","Rhode Island","Providence ","PRO",169,187,13,426,NA,NA,NA,NA
+"2015","2","South Carolina","Charleston ","CHL",248,256,23,564,NA,NA,NA,19
+"2015","2","Tennessee","Memphis ","MEM",395,391,13,1079,NA,23,NA,34
+"2015","2","Texas","Dallas ","DAL",1678,1292,202,6532,NA,13,NA,176
+"2015","2","Texas","El Paso ","ELP",574,574,25,1073,NA,NA,NA,32
+"2015","2","Texas","Harlingen ","HLG",609,568,27,1519,NA,NA,NA,57
+"2015","2","Texas","Houston ","HOU",2059,1691,223,4253,NA,32,NA,553
+"2015","2","Texas","San Antonio ","SNA",1053,729,38,2622,NA,24,NA,10
+"2015","2","Utah","Salt Lake City ","SLC",464,506,29,1016,NA,NA,NA,11
+"2015","2","Vermont","St. Albans ","STA",42,34,NA,69,NA,NA,NA,NA
+"2015","2","Virginia","Norfolk ","NOR",290,235,24,869,NA,NA,NA,NA
+"2015","2","Washington","Seattle ","SEA",732,554,54,1824,NA,NA,NA,NA
+"2015","2","Washington","Spokane ","SPO",51,58,14,112,NA,NA,NA,NA
+"2015","2","Washington","Yakima","YAK",76,136,NA,127,NA,NA,NA,NA
+"2015","2","Wisconsin","Milwaukee ","MIL",250,281,22,558,NA,NA,NA,NA
+"2015","2","Service Center","California","WSC",2065,2975,930,5047,41365,66713,12025,315380
+"2015","2","Service Center","Nebraska","NSC",53255,49414,2274,97992,1424,2205,293,3078
+"2015","2","Service Center","Texas","SSC",11141,12743,541,19936,266,404,90,609
+"2015","2","Service Center","Vermont","ESC",12292,10762,1116,19304,11944,4303,996,152776
+"2015","3","Alaska","Anchorage ","ANC",64,76,1,156,NA,NA,NA,1
+"2015","3","Arizona","Phoenix ","PHO",973,638,16,2674,2,1,NA,71
+"2015","3","Arizona","Tucson","TUC",305,363,13,520,1,7,NA,7
+"2015","3","Arkansas","Fort Smith ","FSA",100,160,13,190,NA,2,NA,5
+"2015","3","California","Chula Vista","CVC",595,349,28,1248,2,8,NA,8
+"2015","3","California","Fresno ","FRE",439,357,49,1168,1,14,6,37
+"2015","3","California","Imperial","IMP",113,121,6,224,NA,NA,1,1
+"2015","3","California","Los Angeles ","LOS",1726,1881,93,4484,NA,10,2,152
+"2015","3","California","Los Angeles County ","LAC",1748,1661,158,3528,2,5,1,53
+"2015","3","California","Sacramento ","SAC",586,1084,59,1734,NA,12,3,5
+"2015","3","California","San Bernardino","SBD",1237,1687,98,2910,NA,5,8,60
+"2015","3","California","San Diego ","SND",437,420,24,1022,2,3,3,20
+"2015","3","California","San Fernando Valley","SFV",971,957,120,2291,2,4,10,120
+"2015","3","California","San Francisco","SFR",1532,1594,76,3455,3,39,6,110
+"2015","3","California","San Jose ","SNJ",864,861,36,1643,1,8,4,4
+"2015","3","California","Santa Ana","SAA",1079,398,40,3339,1,NA,5,7
+"2015","3","Colorado","Denver ","DEN",843,385,59,2971,NA,2,2,8
+"2015","3","Connecticut","Hartford ","HAR",603,386,87,1827,2,4,1,62
+"2015","3","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2015","3","District of Columbia","Washington ","WAS",1065,810,85,2855,NA,7,1,52
+"2015","3","Florida","Hialeah","HIA",520,1090,33,1405,1,11,2,6
+"2015","3","Florida","Jacksonville","JAC",366,329,25,785,NA,2,NA,4
+"2015","3","Florida","Kendall","KND",465,412,48,963,3,14,5,8
+"2015","3","Florida","Miami ","MIA",970,779,99,2628,2,10,3,60
+"2015","3","Florida","Oakland Park","OKL",1256,828,119,2775,4,9,4,77
+"2015","3","Florida","Orlando ","ORL",889,787,106,2159,1,5,1,62
+"2015","3","Florida","TAM","TAM",833,1003,105,2022,NA,10,1,93
+"2015","3","Florida","West Palm Beach","WPB",609,595,78,1534,1,11,32,5
+"2015","3","Georgia","Atlanta ","ATL",1740,1149,129,4236,6,32,2,56
+"2015","3","Hawaii","Honolulu ","HHW",265,261,15,562,NA,3,NA,2
+"2015","3","Idaho","Boise ","BOI",78,520,12,245,NA,3,NA,3
+"2015","3","Illinois","Chicago ","CHI",2341,2345,162,7179,3,48,7,336
+"2015","3","Indiana","Indianapolis ","INP",312,333,44,638,NA,4,2,7
+"2015","3","Iowa","Des Moines","DSM",117,163,11,292,2,NA,NA,3
+"2015","3","Kansas","Wichita","WIC",138,140,8,263,NA,2,NA,6
+"2015","3","Kentucky","Louisville ","LOU",184,127,26,456,NA,9,2,2
+"2015","3","Louisiana","New Orleans ","NOL",384,409,35,689,1,11,NA,1
+"2015","3","Maine","Portland ","POM",68,243,10,154,NA,NA,NA,NA
+"2015","3","Maryland","Baltimore ","BAL",1156,617,53,3784,1,10,1,20
+"2015","3","Massachusetts","Boston ","BOS",1252,663,24,3608,2,8,NA,15
+"2015","3","Massachusetts","Lawrence","LAW",439,168,29,1455,1,8,1,1
+"2015","3","Michigan","Detroit ","DET",591,526,62,1749,NA,19,5,353
+"2015","3","Minnesota","St. Paul ","SPM",455,401,66,1493,NA,4,1,22
+"2015","3","Missouri","Kansas City ","KAN",306,390,34,663,NA,NA,NA,9
+"2015","3","Missouri","St. Louis ","STL",162,196,9,516,NA,2,NA,4
+"2015","3","Montana","Helena ","HEL",39,212,2,97,1,2,NA,1
+"2015","3","Nebraska","Omaha ","OMA",148,373,68,387,1,9,7,20
+"2015","3","Nevada","Las Vegas ","LVG",682,524,56,1723,2,3,1,13
+"2015","3","Nevada","Reno ","REN",88,182,7,362,NA,1,NA,3
+"2015","3","New Hampshire","Manchester ","MAN",97,199,13,261,NA,2,1,NA
+"2015","3","New Jersey","Mount Laurel","MTL",465,542,47,1206,NA,3,4,5
+"2015","3","New Jersey","Newark ","NEW",2410,2057,159,5172,2,12,7,16
+"2015","3","New Mexico","Albuquerque ","ABQ",182,297,21,315,1,NA,NA,6
+"2015","3","New York","Albany ","ALB",104,48,8,373,NA,NA,1,13
+"2015","3","New York","Buffalo ","BUF",193,467,23,709,NA,12,6,73
+"2015","3","New York","Long Island","LNY",1369,651,31,4501,2,19,NA,58
+"2015","3","New York","New York ","NYC",4130,3977,578,11657,5,104,8,513
+"2015","3","New York","Queens","QNS",1372,300,36,4311,NA,10,1,170
+"2015","3","North Carolina","Charlotte ","CLT",407,456,31,676,NA,1,NA,3
+"2015","3","North Carolina","Raleigh","RAL",442,824,28,998,1,26,1,5
+"2015","3","Ohio","Cincinnati ","CIN",162,185,16,295,NA,2,NA,5
+"2015","3","Ohio","Cleveland ","CLE",245,196,30,432,NA,4,NA,3
+"2015","3","Ohio","Columbus","CLM",235,245,45,443,NA,4,5,3
+"2015","3","Oklahoma","Oklahoma City ","OKC",268,220,21,933,NA,6,NA,55
+"2015","3","Oregon","Portland ","POO",416,426,22,986,NA,4,3,1
+"2015","3","Pennsylvania","Philadelphia","PHI",1001,1319,101,2336,NA,3,NA,3
+"2015","3","Pennsylvania","Pittsburgh ","PIT",192,147,16,685,NA,2,NA,4
+"2015","3","Rhode Island","Providence ","PRO",156,418,17,458,NA,5,NA,5
+"2015","3","South Carolina","Charleston ","CHL",252,273,21,566,NA,7,1,10
+"2015","3","Tennessee","Memphis ","MEM",442,462,8,1092,1,2,1,56
+"2015","3","Texas","Dallas ","DAL",1986,1527,157,7313,4,8,6,234
+"2015","3","Texas","El Paso ","ELP",701,548,18,1304,3,10,NA,28
+"2015","3","Texas","Harlingen ","HLG",677,779,20,1482,1,7,2,23
+"2015","3","Texas","Houston ","HOU",2308,1689,182,4895,4,22,1,179
+"2015","3","Texas","San Antonio ","SNA",1209,739,55,3077,2,12,3,51
+"2015","3","Utah","Salt Lake City ","SLC",497,581,19,1057,2,9,2,12
+"2015","3","Vermont","St. Albans ","STA",41,47,5,81,NA,NA,NA,NA
+"2015","3","Virginia","Norfolk ","NOR",304,261,28,794,NA,2,NA,19
+"2015","3","Washington","Seattle ","SEA",780,358,35,1948,NA,10,4,3
+"2015","3","Washington","Spokane ","SPO",46,67,9,123,NA,4,NA,NA
+"2015","3","Washington","Yakima","YAK",86,115,5,146,NA,1,NA,6
+"2015","3","Wisconsin","Milwaukee ","MIL",295,276,36,611,NA,2,NA,10
+"2015","3","Service Center","California","WSC",11488,5087,826,12031,58346,66064,8054,300791
+"2015","3","Service Center","Nebraska","NSC",57422,51439,2445,98825,1707,1588,313,3289
+"2015","3","Service Center","Texas","SSC",12447,8410,668,23672,324,293,30,675
+"2015","3","Service Center","Vermont","ESC",4836,3618,928,20567,4688,2066,582,155506
+"2015","4","Alaska","Anchorage ","ANC",66,65,NA,174,NA,NA,NA,NA
+"2015","4","Arizona","Phoenix ","PHO",904,876,33,2827,NA,NA,NA,80
+"2015","4","Arizona","Tucson","TUC",334,389,15,587,NA,NA,NA,NA
+"2015","4","Arkansas","Fort Smith ","FSA",82,117,10,190,NA,NA,NA,NA
+"2015","4","California","Chula Vista","CVC",507,368,31,1237,NA,NA,NA,NA
+"2015","4","California","Fresno ","FRE",512,417,15,1255,NA,NA,NA,40
+"2015","4","California","Imperial","IMP",87,253,NA,189,NA,NA,NA,NA
+"2015","4","California","Los Angeles ","LOS",1618,2175,146,5244,NA,59,NA,104
+"2015","4","California","Los Angeles County ","LAC",1600,1660,108,2499,NA,15,NA,41
+"2015","4","California","Sacramento ","SAC",537,1088,39,1815,NA,15,NA,NA
+"2015","4","California","San Bernardino","SBD",1254,1667,125,2163,NA,17,NA,75
+"2015","4","California","San Diego ","SND",429,254,19,1162,NA,NA,NA,21
+"2015","4","California","San Fernando Valley","SFV",968,1027,84,2247,NA,NA,NA,127
+"2015","4","California","San Francisco","SFR",1412,1774,53,3322,NA,28,12,110
+"2015","4","California","San Jose ","SNJ",931,921,33,1584,NA,10,NA,10
+"2015","4","California","Santa Ana","SAA",1102,680,53,3399,NA,NA,NA,NA
+"2015","4","Colorado","Denver ","DEN",799,347,60,3170,NA,15,NA,NA
+"2015","4","Connecticut","Hartford ","HAR",570,274,103,1846,NA,NA,NA,80
+"2015","4","Delaware","Dover","DVD",NA,NA,NA,NA,NA,NA,NA,NA
+"2015","4","District of Columbia","Washington ","WAS",970,787,52,3108,NA,NA,NA,44
+"2015","4","Florida","Hialeah","HIA",538,922,49,1211,NA,NA,NA,NA
+"2015","4","Florida","Jacksonville","JAC",410,392,32,849,NA,NA,NA,NA
+"2015","4","Florida","Kendall","KND",456,763,38,784,NA,11,NA,NA
+"2015","4","Florida","Miami ","MIA",912,566,45,3009,NA,NA,NA,56
+"2015","4","Florida","Oakland Park","OKL",1133,1673,130,2234,NA,31,NA,80
+"2015","4","Florida","Orlando ","ORL",908,944,96,2099,NA,NA,NA,61
+"2015","4","Florida","TAM","TAM",816,814,124,2164,NA,16,NA,123
+"2015","4","Florida","West Palm Beach","WPB",570,792,55,1401,NA,NA,NA,NA
+"2015","4","Georgia","Atlanta ","ATL",1774,1566,87,4401,NA,25,NA,40
+"2015","4","Hawaii","Honolulu ","HHW",258,282,33,477,NA,NA,NA,NA
+"2015","4","Idaho","Boise ","BOI",88,468,NA,353,NA,NA,NA,NA
+"2015","4","Illinois","Chicago ","CHI",2447,1956,117,6843,NA,55,NA,276
+"2015","4","Indiana","Indianapolis ","INP",322,381,31,637,NA,NA,NA,NA
+"2015","4","Iowa","Des Moines","DSM",119,110,15,302,NA,NA,NA,NA
+"2015","4","Kansas","Wichita","WIC",133,120,NA,290,NA,NA,NA,NA
+"2015","4","Kentucky","Louisville ","LOU",186,221,24,465,NA,NA,NA,NA
+"2015","4","Louisiana","New Orleans ","NOL",345,493,42,541,NA,NA,NA,NA
+"2015","4","Maine","Portland ","POM",55,315,NA,191,NA,NA,NA,NA
+"2015","4","Maryland","Baltimore ","BAL",1170,880,82,3969,NA,13,NA,12
+"2015","4","Massachusetts","Boston ","BOS",1297,638,33,3787,NA,15,NA,56
+"2015","4","Massachusetts","Lawrence","LAW",432,314,25,1415,NA,11,NA,NA
+"2015","4","Michigan","Detroit ","DET",638,393,58,2037,NA,27,NA,323
+"2015","4","Minnesota","St. Paul ","SPM",512,595,42,1205,NA,NA,NA,24
+"2015","4","Missouri","Kansas City ","KAN",290,609,25,524,NA,NA,NA,10
+"2015","4","Missouri","St. Louis ","STL",161,203,12,553,NA,NA,NA,NA
+"2015","4","Montana","Helena ","HEL",46,158,NA,97,NA,NA,NA,NA
+"2015","4","Nebraska","Omaha ","OMA",154,477,41,308,NA,19,NA,NA
+"2015","4","Nevada","Las Vegas ","LVG",652,628,38,1993,NA,NA,NA,26
+"2015","4","Nevada","Reno ","REN",80,204,13,376,NA,NA,NA,NA
+"2015","4","New Hampshire","Manchester ","MAN",114,293,NA,361,NA,NA,NA,NA
+"2015","4","New Jersey","Mount Laurel","MTL",499,1112,53,942,NA,NA,NA,NA
+"2015","4","New Jersey","Newark ","NEW",2148,1886,135,5712,NA,25,NA,70
+"2015","4","New Mexico","Albuquerque ","ABQ",192,298,12,252,NA,NA,NA,NA
+"2015","4","New York","Albany ","ALB",123,126,NA,363,NA,NA,NA,11
+"2015","4","New York","Buffalo ","BUF",184,421,85,768,NA,10,NA,103
+"2015","4","New York","Long Island","LNY",1362,679,40,4800,NA,21,NA,81
+"2015","4","New York","New York ","NYC",4005,3610,449,11722,NA,66,13,450
+"2015","4","New York","Queens","QNS",1395,32,31,5380,NA,NA,NA,172
+"2015","4","North Carolina","Charlotte ","CLT",433,428,29,667,NA,NA,NA,NA
+"2015","4","North Carolina","Raleigh","RAL",495,647,45,914,NA,20,NA,NA
+"2015","4","Ohio","Cincinnati ","CIN",158,151,17,349,NA,NA,NA,NA
+"2015","4","Ohio","Cleveland ","CLE",207,254,19,387,NA,NA,NA,NA
+"2015","4","Ohio","Columbus","CLM",234,316,54,369,NA,NA,NA,NA
+"2015","4","Oklahoma","Oklahoma City ","OKC",304,216,14,1011,NA,18,NA,41
+"2015","4","Oregon","Portland ","POO",375,387,19,845,NA,NA,NA,NA
+"2015","4","Pennsylvania","Philadelphia","PHI",1055,1337,117,2339,NA,NA,NA,NA
+"2015","4","Pennsylvania","Pittsburgh ","PIT",201,118,NA,910,NA,NA,NA,NA
+"2015","4","Rhode Island","Providence ","PRO",134,502,20,329,NA,NA,NA,NA
+"2015","4","South Carolina","Charleston ","CHL",285,195,16,709,NA,NA,NA,NA
+"2015","4","Tennessee","Memphis ","MEM",486,587,23,1066,NA,NA,NA,63
+"2015","4","Texas","Dallas ","DAL",1997,1500,103,7905,NA,10,NA,242
+"2015","4","Texas","El Paso ","ELP",572,726,22,1144,NA,14,NA,22
+"2015","4","Texas","Harlingen ","HLG",664,895,22,1288,NA,NA,NA,19
+"2015","4","Texas","Houston ","HOU",2359,1468,145,5606,NA,29,NA,35
+"2015","4","Texas","San Antonio ","SNA",1216,1279,25,2686,NA,19,NA,46
+"2015","4","Utah","Salt Lake City ","SLC",489,674,26,929,NA,13,NA,22
+"2015","4","Vermont","St. Albans ","STA",27,55,NA,112,NA,NA,NA,NA
+"2015","4","Virginia","Norfolk ","NOR",339,351,34,919,NA,NA,NA,NA
+"2015","4","Washington","Seattle ","SEA",810,541,42,2034,NA,10,NA,NA
+"2015","4","Washington","Spokane ","SPO",45,68,NA,123,NA,NA,NA,NA
+"2015","4","Washington","Yakima","YAK",103,173,NA,120,NA,NA,NA,NA
+"2015","4","Wisconsin","Milwaukee ","MIL",254,319,28,554,NA,NA,NA,17
+"2015","4","Service Center","California","WSC",15134,13328,923,20638,58015,35106,6566,329654
+"2015","4","Service Center","Nebraska","NSC",54825,52516,2551,96093,1693,1474,184,3567
+"2015","4","Service Center","Texas","SSC",11342,11883,524,22886,307,268,143,655
+"2015","4","Service Center","Vermont","ESC",NA,4651,784,8789,NA,2585,700,142259
+"2016","1","Alaska","Anchorage ","ANC",72,58,15,174,NA,NA,NA,NA
+"2016","1","Arizona","Phoenix ","PHO",838,1273,30,2205,NA,13,NA,76
+"2016","1","Arizona","Tucson","TUC",291,477,16,545,NA,NA,NA,11
+"2016","1","Arkansas","Fort Smith ","FSA",98,106,NA,192,NA,NA,NA,NA
+"2016","1","California","Chula Vista","CVC",547,422,26,1267,NA,NA,NA,NA
+"2016","1","California","Fresno ","FRE",455,530,41,963,NA,12,NA,38
+"2016","1","California","Imperial","IMP",78,218,NA,170,NA,NA,NA,NA
+"2016","1","California","Los Angeles ","LOS",1343,1852,97,2807,NA,11,NA,43
+"2016","1","California","Los Angeles County ","LAC",1565,1194,80,3363,NA,NA,NA,91
+"2016","1","California","Sacramento ","SAC",548,769,41,1704,NA,NA,NA,NA
+"2016","1","California","San Bernardino","SBD",1145,1072,121,1827,NA,NA,10,38
+"2016","1","California","San Diego ","SND",446,258,26,943,NA,12,NA,NA
+"2016","1","California","San Fernando Valley","SFV",946,827,85,2356,NA,15,NA,71
+"2016","1","California","San Francisco","SFR",1429,1455,57,3483,NA,11,NA,22
+"2016","1","California","San Jose ","SNJ",816,866,42,1694,NA,13,NA,24
+"2016","1","California","Santa Ana","SAA",1119,1481,79,2703,NA,13,NA,NA
+"2016","1","Colorado","Denver ","DEN",795,526,55,3074,NA,21,NA,57
+"2016","1","Connecticut","Hartford ","HAR",635,402,71,2075,NA,NA,NA,102
+"2016","1","Delaware","Dover","DVD",NA,41,NA,NA,NA,NA,NA,NA
+"2016","1","District of Columbia","Washington ","WAS",1023,1163,73,3117,NA,NA,NA,126
+"2016","1","Florida","Hialeah","HIA",521,1048,42,1080,NA,NA,NA,23
+"2016","1","Florida","Jacksonville","JAC",365,262,46,945,NA,NA,NA,NA
+"2016","1","Florida","Kendall","KND",457,584,38,944,NA,NA,NA,NA
+"2016","1","Florida","Miami ","MIA",972,826,103,2653,NA,24,NA,50
+"2016","1","Florida","Oakland Park","OKL",1146,802,84,2549,NA,16,NA,41
+"2016","1","Florida","Orlando ","ORL",882,591,62,2725,NA,NA,NA,107
+"2016","1","Florida","TAM","TAM",775,780,52,2129,NA,11,NA,NA
+"2016","1","Florida","West Palm Beach","WPB",618,643,44,1364,NA,14,NA,16
+"2016","1","Georgia","Atlanta ","ATL",1636,1527,98,4190,NA,47,NA,159
+"2016","1","Hawaii","Honolulu ","HHW",229,232,12,437,NA,NA,NA,NA
+"2016","1","Idaho","Boise ","BOI",97,283,NA,431,NA,NA,NA,NA
+"2016","1","Illinois","Chicago ","CHI",2334,1856,99,6711,NA,61,NA,317
+"2016","1","Indiana","Indianapolis ","INP",319,359,21,655,NA,NA,NA,NA
+"2016","1","Iowa","Des Moines","DSM",125,106,11,314,NA,NA,NA,NA
+"2016","1","Kansas","Wichita","WIC",146,112,NA,303,NA,NA,NA,NA
+"2016","1","Kentucky","Louisville ","LOU",185,233,24,399,NA,NA,NA,NA
+"2016","1","Louisiana","New Orleans ","NOL",311,371,38,647,NA,NA,NA,NA
+"2016","1","Maine","Portland ","POM",57,214,NA,159,NA,NA,NA,NA
+"2016","1","Maryland","Baltimore ","BAL",1124,914,64,3241,NA,NA,NA,180
+"2016","1","Massachusetts","Boston ","BOS",1240,1122,92,3803,NA,NA,NA,98
+"2016","1","Massachusetts","Lawrence","LAW",461,419,51,974,NA,NA,NA,50
+"2016","1","Michigan","Detroit ","DET",646,868,52,1945,NA,38,NA,316
+"2016","1","Minnesota","St. Paul ","SPM",522,316,28,1314,NA,NA,NA,20
+"2016","1","Missouri","Kansas City ","KAN",283,541,21,517,NA,NA,NA,NA
+"2016","1","Missouri","St. Louis ","STL",153,121,14,506,NA,NA,NA,NA
+"2016","1","Montana","Helena ","HEL",49,210,NA,199,NA,NA,NA,NA
+"2016","1","Nebraska","Omaha ","OMA",143,491,40,679,NA,NA,NA,NA
+"2016","1","Nevada","Las Vegas ","LVG",607,756,37,1711,NA,NA,NA,17
+"2016","1","Nevada","Reno ","REN",76,145,12,433,NA,NA,NA,NA
+"2016","1","New Hampshire","Manchester ","MAN",85,212,NA,273,NA,NA,NA,11
+"2016","1","New Jersey","Mount Laurel","MTL",428,665,40,1171,NA,NA,NA,41
+"2016","1","New Jersey","Newark ","NEW",2244,1638,95,7025,NA,17,31,84
+"2016","1","New Mexico","Albuquerque ","ABQ",166,333,NA,208,NA,NA,NA,NA
+"2016","1","New York","Albany ","ALB",123,111,NA,338,NA,NA,NA,27
+"2016","1","New York","Buffalo ","BUF",176,425,62,745,NA,11,50,61
+"2016","1","New York","Long Island","LNY",1373,1168,43,4463,NA,10,NA,195
+"2016","1","New York","New York ","NYC",3852,4621,434,13913,NA,100,NA,696
+"2016","1","New York","Queens","QNS",1342,976,29,4760,NA,NA,NA,276
+"2016","1","North Carolina","Charlotte ","CLT",476,467,35,713,NA,NA,NA,13
+"2016","1","North Carolina","Raleigh","RAL",473,375,15,850,NA,NA,NA,32
+"2016","1","Ohio","Cincinnati ","CIN",169,195,24,345,NA,NA,NA,NA
+"2016","1","Ohio","Cleveland ","CLE",225,217,31,408,NA,NA,NA,NA
+"2016","1","Ohio","Columbus","CLM",233,242,32,382,NA,NA,NA,NA
+"2016","1","Oklahoma","Oklahoma City ","OKC",294,356,19,929,NA,NA,NA,34
+"2016","1","Oregon","Portland ","POO",416,341,25,1003,NA,NA,NA,NA
+"2016","1","Pennsylvania","Philadelphia","PHI",1016,1267,129,2833,NA,31,NA,127
+"2016","1","Pennsylvania","Pittsburgh ","PIT",195,386,NA,707,NA,NA,NA,NA
+"2016","1","Rhode Island","Providence ","PRO",169,503,21,466,NA,NA,NA,19
+"2016","1","South Carolina","Charleston ","CHL",230,230,12,751,NA,NA,NA,20
+"2016","1","Tennessee","Memphis ","MEM",448,443,30,1153,NA,NA,NA,46
+"2016","1","Texas","Dallas ","DAL",1906,1693,181,7928,NA,11,NA,246
+"2016","1","Texas","El Paso ","ELP",534,545,23,1092,NA,NA,NA,28
+"2016","1","Texas","Harlingen ","HLG",631,802,21,1293,NA,NA,NA,17
+"2016","1","Texas","Houston ","HOU",2376,1249,161,5905,NA,21,NA,16
+"2016","1","Texas","San Antonio ","SNA",1154,847,37,2484,NA,10,NA,45
+"2016","1","Utah","Salt Lake City ","SLC",484,545,18,894,NA,NA,NA,NA
+"2016","1","Vermont","St. Albans ","STA",44,79,NA,101,NA,NA,NA,NA
+"2016","1","Virginia","Norfolk ","NOR",318,357,31,961,NA,NA,NA,19
+"2016","1","Washington","Seattle ","SEA",755,548,38,2299,NA,18,NA,NA
+"2016","1","Washington","Spokane ","SPO",67,93,NA,138,NA,NA,NA,NA
+"2016","1","Washington","Yakima","YAK",118,199,NA,166,NA,NA,NA,NA
+"2016","1","Wisconsin","Milwaukee ","MIL",250,273,19,558,NA,NA,NA,16
+"2016","1","Service Center","California","WSC",15362,10695,1310,18113,62057,27826,4331,361107
+"2016","1","Service Center","Nebraska","NSC",53568,52435,2637,88729,1758,1769,247,3522
+"2016","1","Service Center","Texas","SSC",12071,8563,483,12038,317,300,163,452
+"2016","1","Service Center","Vermont","ESC",NA,1447,395,7817,NA,1214,391,141359
+"2016","1","Service Center","Potomac","YSC",NA,5685,80,17554,NA,NA,NA,NA
+"2016","2","Alaska","Anchorage ","ANC",60,43,NA,177,NA,NA,NA,NA
+"2016","2","Arizona","Phoenix ","PHO",841,1269,129,1562,NA,28,NA,27
+"2016","2","Arizona","Tucson","TUC",312,460,NA,604,NA,NA,NA,11
+"2016","2","Arkansas","Fort Smith ","FSA",94,171,NA,NA,NA,NA,NA,NA
+"2016","2","California","Chula Vista","CVC",327,198,12,NA,NA,NA,NA,NA
+"2016","2","California","Fresno ","FRE",444,414,36,916,NA,NA,NA,48
+"2016","2","California","Imperial","IMP",94,192,NA,163,NA,NA,NA,NA
+"2016","2","California","Los Angeles ","LOS",1406,1425,164,2743,NA,27,NA,36
+"2016","2","California","Los Angeles County ","LAC",1453,1302,93,3291,NA,NA,NA,85
+"2016","2","California","Sacramento ","SAC",628,651,47,1976,NA,NA,NA,NA
+"2016","2","California","San Bernardino","SBD",1265,1082,93,1845,NA,NA,NA,47
+"2016","2","California","San Diego ","SND",705,203,18,2762,NA,NA,NA,NA
+"2016","2","California","San Fernando Valley","SFV",942,1063,82,2179,NA,10,NA,58
+"2016","2","California","San Francisco","SFR",1514,1287,54,3765,NA,13,NA,50
+"2016","2","California","San Jose ","SNJ",756,943,35,1538,NA,12,NA,37
+"2016","2","California","Santa Ana","SAA",1117,916,94,2786,NA,32,NA,NA
+"2016","2","Colorado","Denver ","DEN",845,475,50,3183,NA,18,NA,40
+"2016","2","Connecticut","Hartford ","HAR",636,603,126,1817,NA,NA,NA,102
+"2016","2","Delaware","Dover","DVD",NA,101,NA,14,NA,NA,NA,NA
+"2016","2","District of Columbia","Washington ","WAS",960,1083,82,3099,NA,10,NA,116
+"2016","2","Florida","Hialeah","HIA",522,621,32,1130,NA,NA,NA,22
+"2016","2","Florida","Jacksonville","JAC",338,343,22,903,NA,NA,NA,NA
+"2016","2","Florida","Kendall","KND",444,535,38,992,NA,NA,NA,NA
+"2016","2","Florida","Miami ","MIA",889,650,63,2831,NA,17,NA,66
+"2016","2","Florida","Oakland Park","OKL",1250,987,81,2845,NA,13,15,31
+"2016","2","Florida","Orlando ","ORL",871,975,89,2647,NA,25,NA,97
+"2016","2","Florida","TAM","TAM",802,905,74,2077,NA,NA,NA,NA
+"2016","2","Florida","West Palm Beach","WPB",604,583,66,1402,NA,11,NA,23
+"2016","2","Georgia","Atlanta ","ATL",1702,1631,91,4370,NA,38,NA,134
+"2016","2","Hawaii","Honolulu ","HHW",264,192,21,471,NA,NA,NA,NA
+"2016","2","Idaho","Boise ","BOI",78,405,NA,377,NA,NA,NA,NA
+"2016","2","Illinois","Chicago ","CHI",2382,2229,186,6183,NA,29,NA,294
+"2016","2","Indiana","Indianapolis ","INP",318,413,24,597,NA,NA,NA,NA
+"2016","2","Iowa","Des Moines","DSM",115,51,NA,375,NA,NA,NA,NA
+"2016","2","Kansas","Wichita","WIC",105,190,NA,216,NA,NA,NA,NA
+"2016","2","Kentucky","Louisville ","LOU",173,176,38,353,NA,NA,NA,13
+"2016","2","Louisiana","New Orleans ","NOL",340,355,56,585,NA,NA,NA,NA
+"2016","2","Maine","Portland ","POM",60,190,NA,144,NA,NA,NA,NA
+"2016","2","Maryland","Baltimore ","BAL",1137,683,48,3560,NA,NA,NA,210
+"2016","2","Massachusetts","Boston ","BOS",1252,1119,58,3980,NA,NA,NA,124
+"2016","2","Massachusetts","Lawrence","LAW",453,376,42,988,NA,NA,NA,46
+"2016","2","Michigan","Detroit ","DET",586,1065,70,1475,NA,62,NA,251
+"2016","2","Minnesota","St. Paul ","SPM",508,344,36,1420,NA,NA,NA,18
+"2016","2","Missouri","Kansas City ","KAN",311,613,12,481,NA,NA,NA,11
+"2016","2","Missouri","St. Louis ","STL",166,35,NA,638,NA,NA,NA,NA
+"2016","2","Montana","Helena ","HEL",38,246,NA,83,NA,NA,NA,NA
+"2016","2","Nebraska","Omaha ","OMA",145,439,38,506,NA,NA,NA,NA
+"2016","2","Nevada","Las Vegas ","LVG",579,641,49,1442,NA,NA,NA,19
+"2016","2","Nevada","Reno ","REN",63,166,NA,538,NA,NA,NA,NA
+"2016","2","New Hampshire","Manchester ","MAN",103,137,NA,313,NA,NA,NA,11
+"2016","2","New Jersey","Mount Laurel","MTL",462,827,50,1087,NA,16,NA,24
+"2016","2","New Jersey","Newark ","NEW",2361,2180,132,7578,NA,32,16,102
+"2016","2","New Mexico","Albuquerque ","ABQ",192,355,NA,366,NA,NA,NA,NA
+"2016","2","New York","Albany ","ALB",86,140,13,248,NA,NA,NA,26
+"2016","2","New York","Buffalo ","BUF",209,524,36,621,NA,11,NA,50
+"2016","2","New York","Long Island","LNY",1383,1211,51,4427,NA,17,NA,181
+"2016","2","New York","New York ","NYC",3980,5477,512,11936,NA,139,NA,581
+"2016","2","New York","Queens","QNS",1375,1591,85,4388,NA,35,NA,232
+"2016","2","North Carolina","Charlotte ","CLT",419,525,38,685,NA,NA,NA,NA
+"2016","2","North Carolina","Raleigh","RAL",505,470,36,825,NA,NA,NA,30
+"2016","2","Ohio","Cincinnati ","CIN",160,200,22,312,NA,NA,NA,NA
+"2016","2","Ohio","Cleveland ","CLE",256,234,42,417,NA,NA,NA,NA
+"2016","2","Ohio","Columbus","CLM",220,205,46,371,NA,NA,NA,NA
+"2016","2","Oklahoma","Oklahoma City ","OKC",313,285,26,908,NA,NA,NA,28
+"2016","2","Oregon","Portland ","POO",421,682,34,672,NA,NA,NA,NA
+"2016","2","Pennsylvania","Philadelphia","PHI",1052,1577,81,2587,NA,138,NA,61
+"2016","2","Pennsylvania","Pittsburgh ","PIT",218,296,NA,602,NA,NA,NA,NA
+"2016","2","Rhode Island","Providence ","PRO",188,360,23,430,NA,NA,NA,14
+"2016","2","South Carolina","Charleston ","CHL",259,330,40,698,NA,NA,NA,18
+"2016","2","Tennessee","Memphis ","MEM",434,492,39,1091,NA,11,NA,34
+"2016","2","Texas","Dallas ","DAL",1952,1455,152,8072,NA,NA,NA,279
+"2016","2","Texas","El Paso ","ELP",547,638,24,913,NA,NA,NA,17
+"2016","2","Texas","Harlingen ","HLG",657,742,30,1221,NA,NA,NA,14
+"2016","2","Texas","Houston ","HOU",2363,510,107,7436,NA,NA,NA,138
+"2016","2","Texas","San Antonio ","SNA",1139,859,39,2543,NA,17,NA,41
+"2016","2","Utah","Salt Lake City ","SLC",567,652,16,889,NA,NA,NA,13
+"2016","2","Vermont","St. Albans ","STA",32,116,NA,65,NA,NA,NA,NA
+"2016","2","Virginia","Norfolk ","NOR",337,550,45,811,NA,21,NA,NA
+"2016","2","Washington","Seattle ","SEA",834,1270,65,1715,NA,NA,NA,NA
+"2016","2","Washington","Spokane ","SPO",49,84,NA,110,NA,NA,NA,NA
+"2016","2","Washington","Yakima","YAK",106,170,NA,136,NA,NA,NA,NA
+"2016","2","Wisconsin","Milwaukee ","MIL",282,254,16,583,NA,NA,NA,18
+"2016","2","Service Center","California","WSC",1690,8017,1390,10960,63380,32646,4146,389014
+"2016","2","Service Center","Nebraska","NSC",54549,59420,2553,85466,1144,2019,284,2849
+"2016","2","Service Center","Texas","SSC",5848,4697,470,12681,159,242,146,404
+"2016","2","Service Center","Vermont","ESC",NA,1048,722,6880,NA,873,616,140508
+"2016","2","Service Center","Potomac","YSC",26037,12257,89,32873,538,296,NA,821
+"2016","3","Alaska","Anchorage ","ANC",72,35,NA,189,NA,NA,NA,NA
+"2016","3","Arizona","Phoenix ","PHO",1108,892,66,1819,NA,34,NA,NA
+"2016","3","Arizona","Tucson","TUC",378,524,17,809,NA,NA,NA,NA
+"2016","3","Arkansas","Fort Smith ","FSA",106,202,NA,203,NA,NA,NA,NA
+"2016","3","California","Chula Vista","CVC",NA,NA,NA,NA,NA,NA,NA,NA
+"2016","3","California","Fresno ","FRE",578,284,16,968,NA,NA,NA,33
+"2016","3","California","Imperial","IMP",119,210,NA,195,NA,NA,NA,NA
+"2016","3","California","Los Angeles ","LOS",1642,1297,148,3229,NA,22,NA,30
+"2016","3","California","Los Angeles County ","LAC",1848,1407,138,3433,NA,24,NA,62
+"2016","3","California","Sacramento ","SAC",649,901,60,1673,NA,13,NA,14
+"2016","3","California","San Bernardino","SBD",1473,966,106,2158,NA,NA,NA,56
+"2016","3","California","San Diego ","SND",1061,746,56,2762,NA,NA,NA,NA
+"2016","3","California","San Fernando Valley","SFV",1095,886,72,2419,NA,33,NA,19
+"2016","3","California","San Francisco","SFR",1768,1213,66,4539,NA,26,NA,17
+"2016","3","California","San Jose ","SNJ",883,689,40,2100,NA,12,NA,60
+"2016","3","California","Santa Ana","SAA",1296,728,94,3213,NA,29,12,NA
+"2016","3","Colorado","Denver ","DEN",944,478,64,3448,NA,10,NA,19
+"2016","3","Connecticut","Hartford ","HAR",729,636,96,2051,NA,NA,NA,125
+"2016","3","Delaware","Dover","DVD",NA,37,NA,11,NA,NA,NA,NA
+"2016","3","District of Columbia","Washington ","WAS",1093,798,71,2885,NA,NA,NA,151
+"2016","3","Florida","Hialeah","HIA",621,521,30,1409,NA,NA,NA,13
+"2016","3","Florida","Jacksonville","JAC",385,197,21,1085,NA,NA,NA,NA
+"2016","3","Florida","Kendall","KND",541,451,46,1218,NA,NA,NA,NA
+"2016","3","Florida","Miami ","MIA",1046,626,100,3253,10,17,NA,54
+"2016","3","Florida","Oakland Park","OKL",1516,645,90,3835,NA,NA,NA,36
+"2016","3","Florida","Orlando ","ORL",1128,806,81,3015,NA,NA,NA,93
+"2016","3","Florida","TAM","TAM",941,659,53,2438,NA,NA,NA,NA
+"2016","3","Florida","West Palm Beach","WPB",767,591,65,1642,NA,NA,NA,117
+"2016","3","Georgia","Atlanta ","ATL",2082,1737,177,4817,NA,22,NA,117
+"2016","3","Hawaii","Honolulu ","HHW",276,197,26,513,NA,NA,NA,NA
+"2016","3","Idaho","Boise ","BOI",109,366,NA,246,NA,NA,NA,NA
+"2016","3","Illinois","Chicago ","CHI",2589,2205,155,6105,NA,43,NA,247
+"2016","3","Indiana","Indianapolis ","INP",367,299,23,701,NA,NA,NA,NA
+"2016","3","Iowa","Des Moines","DSM",138,83,13,415,NA,NA,NA,13
+"2016","3","Kansas","Wichita","WIC",165,78,NA,326,NA,NA,NA,NA
+"2016","3","Kentucky","Louisville ","LOU",219,130,34,423,NA,NA,NA,10
+"2016","3","Louisiana","New Orleans ","NOL",379,200,38,776,NA,NA,NA,NA
+"2016","3","Maine","Portland ","POM",48,269,NA,143,NA,NA,NA,NA
+"2016","3","Maryland","Baltimore ","BAL",1340,618,31,3707,NA,13,NA,212
+"2016","3","Massachusetts","Boston ","BOS",1401,1142,57,4264,NA,11,NA,148
+"2016","3","Massachusetts","Lawrence","LAW",496,293,40,1152,NA,NA,NA,40
+"2016","3","Michigan","Detroit ","DET",652,942,65,1408,NA,51,NA,202
+"2016","3","Minnesota","St. Paul ","SPM",633,301,24,1696,NA,NA,NA,17
+"2016","3","Missouri","Kansas City ","KAN",392,514,18,602,NA,NA,NA,18
+"2016","3","Missouri","St. Louis ","STL",188,68,NA,792,NA,NA,NA,NA
+"2016","3","Montana","Helena ","HEL",39,80,NA,118,NA,NA,NA,NA
+"2016","3","Nebraska","Omaha ","OMA",156,476,42,352,NA,12,NA,NA
+"2016","3","Nevada","Las Vegas ","LVG",717,332,66,1833,NA,NA,NA,NA
+"2016","3","Nevada","Reno ","REN",85,326,NA,621,NA,NA,NA,NA
+"2016","3","New Hampshire","Manchester ","MAN",100,121,NA,250,NA,NA,NA,NA
+"2016","3","New Jersey","Mount Laurel","MTL",524,814,47,1148,NA,NA,NA,21
+"2016","3","New Jersey","Newark ","NEW",2543,2569,149,7995,NA,20,NA,67
+"2016","3","New Mexico","Albuquerque ","ABQ",190,209,NA,413,NA,NA,NA,NA
+"2016","3","New York","Albany ","ALB",136,107,NA,291,NA,NA,NA,26
+"2016","3","New York","Buffalo ","BUF",188,387,20,604,NA,10,NA,80
+"2016","3","New York","Long Island","LNY",1517,1190,57,4666,NA,32,NA,188
+"2016","3","New York","New York ","NYC",4549,4105,492,13433,NA,80,40,605
+"2016","3","New York","Queens","QNS",1512,1264,95,4572,NA,54,10,184
+"2016","3","North Carolina","Charlotte ","CLT",577,474,25,904,NA,NA,NA,NA
+"2016","3","North Carolina","Raleigh","RAL",552,520,43,981,NA,16,NA,NA
+"2016","3","Ohio","Cincinnati ","CIN",168,178,11,315,NA,NA,NA,NA
+"2016","3","Ohio","Cleveland ","CLE",251,240,25,447,NA,15,NA,NA
+"2016","3","Ohio","Columbus","CLM",252,189,30,438,NA,NA,NA,NA
+"2016","3","Oklahoma","Oklahoma City ","OKC",371,321,23,939,NA,NA,NA,24
+"2016","3","Oregon","Portland ","POO",508,335,29,882,NA,NA,NA,NA
+"2016","3","Pennsylvania","Philadelphia","PHI",1161,1777,135,3008,NA,52,NA,122
+"2016","3","Pennsylvania","Pittsburgh ","PIT",215,331,16,474,NA,NA,NA,NA
+"2016","3","Rhode Island","Providence ","PRO",196,364,24,444,NA,NA,NA,12
+"2016","3","South Carolina","Charleston ","CHL",286,221,30,695,NA,NA,NA,11
+"2016","3","Tennessee","Memphis ","MEM",542,452,17,1287,NA,NA,NA,49
+"2016","3","Texas","Dallas ","DAL",2445,2200,216,8038,NA,NA,NA,273
+"2016","3","Texas","El Paso ","ELP",700,431,30,1330,NA,NA,NA,28
+"2016","3","Texas","Harlingen ","HLG",798,548,28,1631,NA,11,NA,NA
+"2016","3","Texas","Houston ","HOU",2632,1541,182,8163,NA,34,NA,146
+"2016","3","Texas","San Antonio ","SNA",1346,942,38,2895,NA,15,NA,40
+"2016","3","Utah","Salt Lake City ","SLC",559,454,21,1082,NA,NA,NA,19
+"2016","3","Vermont","St. Albans ","STA",54,73,NA,80,NA,NA,NA,NA
+"2016","3","Virginia","Norfolk ","NOR",360,292,23,1031,NA,NA,NA,25
+"2016","3","Washington","Seattle ","SEA",968,776,47,1862,NA,NA,NA,NA
+"2016","3","Washington","Spokane ","SPO",50,76,NA,96,NA,NA,NA,NA
+"2016","3","Washington","Yakima","YAK",134,84,NA,170,NA,NA,NA,NA
+"2016","3","Wisconsin","Milwaukee ","MIL",270,205,22,660,NA,NA,NA,26
+"2016","3","Service Center","California","WSC",634,4198,920,7241,72393,29518,3929,429812
+"2016","3","Service Center","Nebraska","NSC",68732,44690,2710,105834,1426,1373,244,2905
+"2016","3","Service Center","Texas","SSC",15924,15067,392,12549,388,410,61,372
+"2016","3","Service Center","Vermont","ESC",NA,579,702,6432,NA,526,667,140312
+"2016","3","Service Center","Potomac","YSC",13354,25072,436,20678,316,553,29,556
+"2016","4","Alaska","Anchorage ","ANC",78,61,NA,183,NA,NA,NA,NA
+"2016","4","Arizona","Phoenix ","PHO",916,495,33,2195,NA,NA,NA,21
+"2016","4","Arizona","Tucson","TUC",328,543,NA,800,NA,10,NA,NA
+"2016","4","Arkansas","Fort Smith ","FSA",117,135,NA,230,NA,NA,NA,NA
+"2016","4","California","Chula Vista","CVC",NA,NA,NA,NA,NA,NA,NA,NA
+"2016","4","California","Fresno ","FRE",613,430,40,1056,NA,NA,NA,32
+"2016","4","California","Imperial","IMP",111,199,14,199,NA,NA,NA,NA
+"2016","4","California","Los Angeles ","LOS",1532,1357,71,3310,NA,14,NA,53
+"2016","4","California","Los Angeles County ","LAC",1804,1379,170,3528,NA,16,NA,46
+"2016","4","California","Sacramento ","SAC",670,1159,54,1325,NA,14,NA,NA
+"2016","4","California","San Bernardino","SBD",1427,1412,81,2455,NA,10,NA,33
+"2016","4","California","San Diego ","SND",1054,842,26,2790,NA,NA,NA,NA
+"2016","4","California","San Fernando Valley","SFV",1030,819,74,2695,NA,34,NA,11
+"2016","4","California","San Francisco","SFR",1739,1356,42,4898,NA,19,NA,36
+"2016","4","California","San Jose ","SNJ",923,549,18,2504,NA,NA,NA,48
+"2016","4","California","Santa Ana","SAA",1280,894,69,3475,NA,20,15,NA
+"2016","4","Colorado","Denver ","DEN",843,1097,70,3017,NA,NA,NA,18
+"2016","4","Connecticut","Hartford ","HAR",702,436,103,2161,NA,NA,NA,123
+"2016","4","Delaware","Dover","DVD",NA,44,NA,NA,NA,NA,NA,NA
+"2016","4","District of Columbia","Washington ","WAS",1224,368,44,3765,NA,10,NA,146
+"2016","4","Florida","Hialeah","HIA",602,659,34,1530,NA,NA,NA,12
+"2016","4","Florida","Jacksonville","JAC",459,580,40,931,NA,NA,NA,NA
+"2016","4","Florida","Kendall","KND",491,186,34,1646,NA,10,NA,NA
+"2016","4","Florida","Miami ","MIA",937,623,75,3552,NA,32,NA,30
+"2016","4","Florida","Fort Myers","OFM",90,NA,NA,903,NA,NA,NA,10
+"2016","4","Florida","Oakland Park","OKL",1320,443,80,4390,NA,10,NA,28
+"2016","4","Florida","Orlando ","ORL",1004,674,92,3492,NA,18,NA,74
+"2016","4","Florida","TAM","TAM",833,453,47,2424,NA,NA,NA,NA
+"2016","4","Florida","West Palm Beach","WPB",739,766,88,1613,NA,NA,NA,137
+"2016","4","Georgia","Atlanta ","ATL",2157,1946,133,5026,NA,48,NA,75
+"2016","4","Hawaii","Honolulu ","HHW",242,231,32,515,NA,10,NA,NA
+"2016","4","Idaho","Boise ","BOI",101,414,NA,206,NA,NA,NA,NA
+"2016","4","Illinois","Chicago ","CHI",2635,1920,139,6223,NA,58,NA,191
+"2016","4","Indiana","Indianapolis ","INP",412,394,57,797,NA,NA,NA,NA
+"2016","4","Iowa","Des Moines","DSM",129,57,NA,499,NA,NA,NA,14
+"2016","4","Kansas","Wichita","WIC",162,118,NA,394,NA,NA,NA,NA
+"2016","4","Kentucky","Louisville ","LOU",171,169,23,418,NA,NA,NA,NA
+"2016","4","Louisiana","New Orleans ","NOL",338,326,26,782,NA,NA,NA,NA
+"2016","4","Maine","Portland ","POM",62,316,11,158,NA,NA,NA,NA
+"2016","4","Maryland","Baltimore ","BAL",1272,562,43,4280,NA,NA,NA,236
+"2016","4","Massachusetts","Boston ","BOS",1430,1371,134,4130,NA,16,NA,157
+"2016","4","Massachusetts","Lawrence","LAW",474,482,71,1102,NA,NA,NA,44
+"2016","4","Michigan","Detroit ","DET",744,969,100,1403,NA,27,NA,175
+"2016","4","Minnesota","St. Paul ","SPM",568,79,20,2121,NA,NA,NA,17
+"2016","4","Missouri","Kansas City ","KAN",422,592,13,733,NA,NA,NA,NA
+"2016","4","Missouri","St. Louis ","STL",188,49,NA,938,NA,NA,NA,NA
+"2016","4","Montana","Helena ","HEL",34,189,NA,199,NA,NA,NA,NA
+"2016","4","Nebraska","Omaha ","OMA",125,308,46,494,NA,NA,NA,NA
+"2016","4","Nevada","Las Vegas ","LVG",738,229,57,2240,NA,NA,NA,NA
+"2016","4","Nevada","Reno ","REN",115,330,19,539,NA,NA,NA,NA
+"2016","4","New Hampshire","Manchester ","MAN",88,120,NA,231,NA,NA,NA,NA
+"2016","4","New Jersey","Mount Laurel","MTL",532,691,64,1154,NA,NA,NA,20
+"2016","4","New Jersey","Newark ","NEW",2672,2207,147,9057,NA,16,10,129
+"2016","4","New Mexico","Albuquerque ","ABQ",200,294,12,363,NA,NA,NA,NA
+"2016","4","New York","Albany ","ALB",126,58,NA,341,NA,NA,NA,26
+"2016","4","New York","Buffalo ","BUF",211,366,37,671,NA,26,NA,61
+"2016","4","New York","Long Island","LNY",1531,780,60,5338,NA,19,NA,228
+"2016","4","New York","New York ","NYC",4429,2570,251,15353,NA,62,NA,698
+"2016","4","New York","Queens","QNS",1424,842,106,5075,NA,13,15,179
+"2016","4","North Carolina","Charlotte ","CLT",534,324,19,1215,NA,NA,NA,NA
+"2016","4","North Carolina","Raleigh","RAL",574,674,32,1024,NA,NA,NA,NA
+"2016","4","Ohio","Cincinnati ","CIN",191,187,12,351,NA,12,NA,NA
+"2016","4","Ohio","Cleveland ","CLE",231,269,27,457,NA,NA,NA,NA
+"2016","4","Ohio","Columbus","CLM",238,250,22,453,NA,NA,NA,NA
+"2016","4","Oklahoma","Oklahoma City ","OKC",359,190,18,1069,NA,11,NA,19
+"2016","4","Oregon","Portland ","POO",460,505,34,823,NA,NA,NA,NA
+"2016","4","Pennsylvania","Philadelphia","PHI",1185,1348,109,3192,NA,72,NA,44
+"2016","4","Pennsylvania","Pittsburgh ","PIT",216,238,18,482,NA,NA,NA,NA
+"2016","4","Rhode Island","Providence ","PRO",233,326,33,512,NA,NA,NA,NA
+"2016","4","South Carolina","Charleston ","CHL",298,364,39,741,NA,NA,NA,NA
+"2016","4","Tennessee","Memphis ","MEM",540,613,26,1292,NA,24,NA,38
+"2016","4","Texas","Dallas ","DAL",2274,1652,135,8079,NA,10,NA,268
+"2016","4","Texas","El Paso ","ELP",633,605,19,1561,NA,NA,NA,53
+"2016","4","Texas","Harlingen ","HLG",717,711,47,1701,NA,NA,NA,NA
+"2016","4","Texas","Houston ","HOU",2801,851,155,9700,NA,21,NA,171
+"2016","4","Texas","San Antonio ","SNA",1385,608,30,3559,NA,NA,NA,47
+"2016","4","Utah","Salt Lake City ","SLC",613,711,15,1006,NA,NA,NA,14
+"2016","4","Vermont","St. Albans ","STA",40,83,NA,143,NA,NA,NA,NA
+"2016","4","Virginia","Norfolk ","NOR",371,411,37,1034,NA,NA,NA,23
+"2016","4","Washington","Seattle ","SEA",992,507,48,2305,NA,17,NA,NA
+"2016","4","Washington","Spokane ","SPO",58,98,NA,119,NA,NA,NA,NA
+"2016","4","Washington","Yakima","YAK",124,158,NA,218,NA,NA,NA,NA
+"2016","4","Wisconsin","Milwaukee ","MIL",327,311,25,702,NA,NA,NA,31
+"2016","4","Service Center","California","WSC",652,1896,1106,6080,70071,34934,4608,462043
+"2016","4","Service Center","Nebraska","NSC",63495,39910,2588,115724,1361,947,292,2968
+"2016","4","Service Center","Texas","SSC",15205,25359,1004,11523,345,659,288,367
+"2016","4","Service Center","Vermont","ESC",NA,482,635,6125,NA,426,443,140175
+"2016","4","Service Center","Potomac","YSC",12133,17298,683,14835,253,501,34,279
