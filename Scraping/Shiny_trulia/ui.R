@@ -8,12 +8,12 @@ library(shinydashboard)
 
 
 shinyUI(dashboardPage(
-  dashboardHeader(title = "USCIS I-130 Data"
+  dashboardHeader(title = "House sales listings on Trulia"
                   ),
   dashboardSidebar(
     sidebarUserPanel(
       name = 'Vahe Voskerchyan',
-      image = img(src = './Shiny1/image/Vahe.jpag')),
+      image = img(src = './Shiny1/image/Vahe.jpg')),
     sidebarMenu(
       menuItem("Quarters", tabName = "quarter", icon = icon("bar-chart")),
       menuItem("Years", tabName = "year", icon = icon("bar-chart")))
@@ -39,8 +39,8 @@ shinyUI(dashboardPage(
   ),
   dashboardBody(
     tabItems(
-      tabItem(tabName = "quarter",
-              fluidRow(plotOutput("quarter"),
+      tabItem(tabName = "Data",
+              fluidRow(plotOutput("data"),
                        selectizeInput("relative",
                                       h4("The Relative Category"),
                                       choice = list('Immidiate Relatives' = "immid",
@@ -52,8 +52,8 @@ shinyUI(dashboardPage(
                                                   'Denied' = "D",
                                                   'Pending'= "P"),
                                       selected = 'immid_R'))),
-      tabItem(tabName = "year",
-              fluidRow(plotOutput('year'),
+      tabItem(tabName = "Plots",
+              fluidRow(plotOutput('plot'),
                        selectizeInput("relative1",
                                       h4("The Relative Category"),
                                       choice = list('Immidiate Relatives' = "immid",

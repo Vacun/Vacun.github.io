@@ -14,7 +14,8 @@ BOT_NAME = 'trulia'
 SPIDER_MODULES = ['trulia.spiders']
 NEWSPIDER_MODULE = 'trulia.spiders'
 
-ITEM_PIPELINES = {'trulia.pipelines.DuplicatesPipeline':100,'trulia.pipelines.WriteItemPipeline':200, }
+ITEM_PIPELINES = {'trulia.pipelines.DuplicatesPipeline':100,
+					'trulia.pipelines.WriteItemPipeline':200, }
 
 
 

@@ -11,8 +11,8 @@ class TrulSpider(scrapy.Spider):
 	start_urls = ['https://www.trulia.com/'+query]
 
 	def last_pagenumber_in_search(self, response):
-		try:
-			last_p = response.xpath('//*[@id="resultsColumn"]/div/div[2]/div[2]/div[1]/div[1]/a[6]/@href').extract()
+		try:							
+			last_p = response.xpath('//div[@class="txtC"]/a[contains(text(),"Last")]/@href').extract()
 			last_p_split = last_p[0].split('/')
 			almost_page = last_p_split[-2]
 			almost_there = almost_page.split('_p')
