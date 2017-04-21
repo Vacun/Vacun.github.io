@@ -5,14 +5,7 @@ import csv
 driver = webdriver.Chrome()
 driver.get(
     'http://www.zillow.com/homes/for_sale/New-York-NY_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=buy')
-# driver.maximize_window()
-# driver.manage().window().maximize()
-# successful clicking in a website
-# driver.get('https://en.wikipedia.org/wiki/Armenia')
-# driver.find_elements_by_xpath('//*[@id="mw-content-text"]/p[17]/a[1]')[0].click()
-# OR
-# list1 = driver.find_elements_by_xpath('//*[@id="mw-content-text"]/p[17]/a[1]')
-# list1[0].click()
+
 
 last_page = int(driver.find_element_by_xpath('//ol[@class="zsg-pagination"]//li[last()-1]').text)
 # print last_page
@@ -20,11 +13,13 @@ page = 0
 count = 0
 
 csv_file = open('listings.csv', 'wb')
+
 fieldnames = ['address', 'price', 'floor_size', 'bathrooms', 'bedrooms', 'est_mortgage', 'zprice', 'latitude',
               'longitude', 'FACTS', 'FEATURES', 'APPLIANCES INCLUDED', 'ROOM TYPES', 'CONSTRUCTION',
               'ADDITIONAL FEATURES', 'OTHER']
+
 writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-# writer.writerow(['bathrooms', 'price', 'bedrooms', 'longitude', 'est_mortgage', 'zprice', 'address', 'latitude', 'floor_size','FEATURES','APPLIANCES INCLUDED','OTHER','CONSTRUCTION','ROOM TYPES','ADDITIONAL FEATURES'])
+
 writer.writeheader()
 for i in range(last_page):
     page = page + 1
@@ -51,6 +46,7 @@ for i in range(last_page):
             print 'No data'
 
         try:
+            # this is to click on the hyperlink of each listing in the list of 'listings'.
             listings[i].find_elements_by_tag_name('a')[0].click()
             time.sleep(2)
 
@@ -60,7 +56,7 @@ for i in range(last_page):
 
             # now the fun part of scraping itself
             time.sleep(2)
-            # driver.find_element_by_xpath('//section[@class="zsg-content-section"]')
+            
             try:
                 address = driver.find_element_by_xpath('//header/h1').text
                 print address
