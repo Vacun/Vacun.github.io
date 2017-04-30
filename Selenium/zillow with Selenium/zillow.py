@@ -110,7 +110,7 @@ for i in range(last_page):
                 for things in features_content_list:
                     features_content = features_content + '\n' + things.text
                 facts_dict[features] = features_content
-            listing_dict.update(facts_dict)
+                listing_dict.update(facts_dict)
             try:
                 writer.writerow(listing_dict)
                 print 'DATA CAPTURED'
