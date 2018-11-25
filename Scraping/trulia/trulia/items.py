@@ -30,4 +30,3 @@ class TruItem(scrapy.Item):
     state_code = scrapy.Field()
     url = scrapy.Field()
     listing_id = scrapy.Field()
-

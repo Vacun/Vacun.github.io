@@ -7,6 +7,7 @@
 from scrapy.exceptions import DropItem
 from scrapy.exporters import CsvItemExporter
 
+
 class DuplicatesPipeline(object):
 
     def __init__(self):
